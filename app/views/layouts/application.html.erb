@@ -12,9 +12,9 @@
 
 	<header class="container">
 		<div class="row">
-			<h1 class="three columns">
+			<h1 id="top" class="three columns">
 				<%= link_to(root_path) do %>
-				<%= image_tag "logo_psg.png" %>
+				<%= image_tag "logo_psa.png" %>
 				<% end %>
 			</h1>
 
@@ -54,12 +54,12 @@
 
 		<nav class="row">
 			<ul id="menu">
-				<li><%= link_to t('.home'), home_path, class: "first" %></li>
+				<li><%= active_link_to t('.home'), home_path, class: "first" %></li>
 				<li><a href="#">INVESTMENT</a></li>
 				<li><a href="#">PARTNER WITH US</a></li>
-				<li><%= link_to "BLOG", posts_path %></li>
+				<li><%= active_link_to "BLOG", posts_path, class: "link" %></li>
 				<li><a href="#">OUR COMPANIES</a></li>
-				<li><%= link_to t('.contact'), new_contact_path, class: "last" %></li>
+				<li><%= active_link_to t('.contact'), new_contact_path, class: "last" %></li>
 			</ul>
 		</nav> <!--  .row -->
 
@@ -75,6 +75,10 @@
 			<article class="row">
 				<%= yield %>
 			</article>
+
+			<p id="back-top">
+				<a href="#top"><span></span>Back to top</a>
+			</p>
 
 			<footer>
 				<div class="row">
@@ -94,19 +98,19 @@
 
 				<nav class="row">
 					<ul id="menu">
-						<li><%= link_to t('.home'), root_path, class: "first" %></li>
+						<li><%= active_link_to t('.home'), home_path, class: "first" %></li>
 						<li><a href="#">INVESTMENT</a></li>
 						<li><a href="#">PARTNER WITH US</a></li>
-						<li><%= link_to "BLOG", posts_path %></li>
+						<li><%= active_link_to "BLOG", posts_path, class: "link" %></li>
 						<li><a href="#">OUR COMPANIES</a></li>
-						<li><%= link_to t('.contact'), new_contact_path, class: "last" %></li>
+						<li><%= active_link_to t('.contact'), new_contact_path, class: "last" %></li>
 					</ul>
 				</nav> <!--  #main_nav --> <!--  .row -->
 
 				<div class="footer_two">
 					<h1 class="three columns">
 						<%= link_to(root_path) do %>
-						<%= image_tag "logo_psg_white.png" %>
+						<%= image_tag "logo_psa_white.png" %>
 						<% end %>
 					</h1>
 
@@ -156,5 +160,33 @@ $(document).ready(function(){
 		});
 });
 </script>
+	<script type="text/javascript">
+	$(document).ready(function(){
+
+		// hide #back-top first
+		$("#back-top").hide();
+		
+		// fade in #back-top
+		$(function () {
+			$(window).scroll(function () {
+				if ($(this).scrollTop() > 100) {
+					$('#back-top').fadeIn();
+				} else {
+					$('#back-top').fadeOut();
+				}
+			});
+
+			// scroll body to 0px on click
+			$('#back-top a').click(function () {
+				$('body,html').animate({
+					scrollTop: 0
+				}, 800);
+				return false;
+			});
+		});
+
+	});
+	</script>
+
 </body>
 </html>
