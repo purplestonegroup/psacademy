@@ -13,9 +13,12 @@ Group::Application.routes.draw do
     get "/contact" => "contacts#new"
 
     # static pages
-    get "/investment" => "contents#investment"
-    get "/partner-with-us" => "contents#partner", as: "partner"
-    get "/our-companies" => "contents#companies", as: "companies"
+    get "/courses" => "contents#courses"
+    get "/method" => "contents#method"
+    get "/memberships" => "contents#memberships"
+    get "/why-choose-us?" => "contents#chooseus", as: "chooseus"
+    get "/success-stories" => "contents#stories", as: "stories"
+    get "/resources" => "contents#resources", as: "resources"
     get "/site-map" => "contents#sitemap", as: "sitemap"
     get "/terms-and-conditions" => "contents#terms", as: "terms"
     get "/privacy" => "contents#privacy"
