@@ -1,2 +1,63 @@
-<h1>Contents#stories</h1>
-<p>Find me in app/views/contents/stories.html.erb</p>
+<section class="stories">
+
+	<div class="row">
+
+		<div class="ten columns offset-by-one">
+			<h2><i class="fa fa-comments-o"></i> <%= t('.title') %></h2>
+			<hr>
+			<br />
+
+			<div class="row">
+
+				<div class="three columns">
+
+					<h3>Julien Collas</h3>
+					<hr class="light">
+					<%= image_tag "julien_collas_france.jpg", width: '180' %>
+
+					<p><i class="fa fa-quote-left"></i> <%= t('.storycomments1') %> <i class="fa fa-quote-right"></i></p>
+
+					<hr class="light">
+					
+					<note><%= t('.storyreview1') %></note>
+					
+				</div>
+
+				<div class="three columns">
+
+					<h3>Marinela</h3>
+					<hr class="light">
+					<%= image_tag "lisa_italy.jpg", width: '180' %>
+
+					<p><i class="fa fa-quote-left"></i> <%= t('.storycomments2') %> <i class="fa fa-quote-right"></i></p>
+					
+					<hr class="light">
+					
+					<note><%= t('.storyreview2') %></note>
+					
+				</div>
+
+				<div class="three columns">
+
+					<h3>Teo Vega</h3>
+					<hr class="light">
+					<%= image_tag "fernando_spain.jpg", width: '180' %>
+
+					<p><i class="fa fa-quote-left"></i> <%= t('.storycomments3') %> <i class="fa fa-quote-right"></i></p>
+					
+					<hr class="light">
+					
+					<note><%= t('.storyreview3') %></note>
+					
+				</div>
+
+			</div>
+
+
+
+
+		</div>
+
+	</div>
+
+</section>

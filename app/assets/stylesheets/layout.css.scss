@@ -388,7 +388,7 @@ nav a {
 margin-top: -20px;
 }
 
-.contact {
+.contact, .chooseus, .stories, .resources, .method, .courses {
   margin-top: 30px;
   h2 {
     font-size: 1.7em;
@@ -409,6 +409,15 @@ margin-top: -20px;
   }
 }
 
+.courses {
+  h2, hr {
+    margin: 15px;
+  }
+}
+
+.course {
+  padding: 13px;
+}
 
 section.video_form {
 overflow: hidden;
@@ -824,7 +833,7 @@ ul#menu_footer {
   border-left: 1px solid #C0C0C0;
   margin-top: 15px;
   padding: 12px 20px;
-  font-size: 1.2em;
+  font-size: 1.6em;
   line-height: 1.2em;
   }
   .slicknav_menu {
@@ -866,7 +875,7 @@ ul#menu_footer {
   border-left: 1px solid #C0C0C0;
   margin-top: 15px;
   padding: 12px 20px;
-  font-size: 1.2em;
+  font-size: 1.6em;
   line-height: 1.2em;
   }
   .slicknav_menu {
