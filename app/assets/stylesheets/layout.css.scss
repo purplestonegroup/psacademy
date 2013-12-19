@@ -134,10 +134,16 @@ note {
 /* #Lists
 ================================================== */
 
-  ol, ul.square, ul.circle, ul.disc { margin-left: 30px; }
+  ul.square, ul.circle, ul.disc { margin-left: 30px; }
   ul.square { list-style: square outside; }
   ul.circle { list-style: circle outside; }
   ul.disc { list-style: disc outside; }
+  ol {
+    margin-left: 10px;
+    color: #2f4f4f;
+    list-style-type:decimal-leading-zero;
+    list-style-position:inside;
+  }
 
   li {
     padding-top: 5px;
@@ -525,7 +531,29 @@ h2.stargold {
   color: #daa520;
 }
 h2.starplatinum {
-  color: #c0c0c0;
+  color: #8fbc8f;
+}
+.button.silver, .button.gold, .button.platinum {
+  color: black;
+  text-shadow: 0 1px rgba(255, 255, 255, .75);
+}
+.button.silver {
+  background-color: #c0c0c0;
+}
+.button.silver:hover {
+  background-color: red;
+}
+.button.gold {
+  background-color: #daa520;
+}
+.button.gold:hover {
+  background-color: red;
+}
+.button.platinum {
+  background-color: #8fbc8f;
+}
+.button.platinum:hover {
+  background-color: red;
 }
 
 /* #Table of the packs content
@@ -763,7 +791,7 @@ ul#menu_footer {
   float: left;
   display: block;
   padding: 10px 15px;
-  border-left: 1px solid $primaryColour;
+  border-left: 1px solid $secondaryColour;
   border-right: 1px solid #000;
   }
 
@@ -799,7 +827,7 @@ ul#menu_footer {
   float: left;
   display: block;
   padding: 10px 15px;
-  border-left: 1px solid $primaryColour;
+  border-left: 1px solid $secondaryColour;
   border-right: 1px solid #000;
   }
 
@@ -844,7 +872,7 @@ ul#menu_footer {
   float: left;
   display: block;
   padding: 10px 15px;
-  border-left: 1px solid $primaryColour;
+  border-left: 1px solid $secondaryColour;
   border-right: 1px solid #000;
   }
 
@@ -886,7 +914,7 @@ ul#menu_footer {
   float: left;
   display: block;
   padding: 10px 15px;
-  border-left: 1px solid $primaryColour;
+  border-left: 1px solid $secondaryColour;
   border-right: 1px solid #000;
   }
 

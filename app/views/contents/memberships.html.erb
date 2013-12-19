@@ -1,2 +1,441 @@
-<h1>Contents#memberships</h1>
-<p>Find me in app/views/contents/memberships.html.erb</p>
+<div class="eleven columns offset-by-one contact">
+
+	<div class="row">
+		<h4><i class="fa fa-th-large"></i> <%= t('.title') %></h4>
+		<div class="five columns">
+			<h2 class="stargold">
+				<i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> 
+			</h2>
+			<h2><%= t('.goldmemberstitle') %></h2>
+			<h3>£297</h3>
+			<h5><%= t('.save') %> £300 (<%= t('.value') %> £597)</h5>
+			<a class="button">PAYPAL BUY NOW</a>
+			<p><%= t('.goldmemberstext') %></p>
+			<div class="row">
+				<%= image_tag "guarantee.png", width: '120', class: "guarantee" %>
+			</div>
+			<a href="#gold" class="button"><%= t('.findout') %></a>
+		</div>
+
+		<div class="five columns">
+			<h2 class="starplatinum">
+				<i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> 
+			</h2>
+			<h2><%= t('.platinummemberstitle') %></h2>
+			<h3>£697</h3>
+			<h5><%= t('.save') %> £191 (<%= t('.value') %> £888)</h5>
+			<a class="button">PAYPAL BUY NOW</a>
+			<p><%= t('.platinummemberstext') %></p>
+			<div class="row">
+				<%= image_tag "guarantee.png", width: '120', class: "guarantee" %>
+			</div>
+			<a href="#platinum" class="button"><%= t('.findout') %></a>
+		</div>
+
+	</div>
+
+</div>
+
+<div class="ten columns offset-by-one">
+
+	<div id="table">
+
+	    <div class="title">
+	        <hr class="light">
+	        <p><%= t('.include') %></p>
+	        <hr class="light">
+	    </div>
+
+	    <div class="heading">
+	        <div class="cell">
+	            <p><%= t('.coursesincluded') %></p>
+	        </div>
+	        <div class="cell">
+	            <p><%= t('.goldmemberstitle') %></p>
+	        </div>
+	        <div class="cell">
+	            <p><%= t('.platinummemberstitle') %></p>
+	        </div>
+	        <div class="cell">
+	            <p><%= t('.value') %></p>
+	        </div>
+	    </div>
+
+	    <div class="rowcell">
+	        <div class="cell">
+	            <p><%= t('.servicestitle14_html') %></p>
+	        </div>
+	        <div class="cell">
+	            <h2><i class="fa fa-check"></i></h2>
+	        </div>
+	        <div class="cell">
+	            <h2><i class="fa fa-check"></i></h2>
+	        </div>
+	        <div class="cell">
+	            <p>£7 <%= t('.value') %></p>
+	        </div>
+	    </div>
+
+	    <div class="rowcell">
+	        <div class="cell">
+	            <p><%= t('.servicestitle13_html') %></p>
+	        </div>
+	        <div class="cell">
+	            <h2><i class="fa fa-check"></i></h2>
+	        </div>
+	        <div class="cell">
+	            <h2><i class="fa fa-check"></i></h2>
+	        </div>
+	        <div class="cell">
+	            <p>£7 <%= t('.value') %></p>
+	        </div>
+	    </div>
+
+	    <div class="rowcell">
+	        <div class="cell">
+	            <p><%= t('.servicestitle4') %></p>
+	        </div>
+	        <div class="cell">
+	            <h2><i class="fa fa-check"></i></h2>
+	        </div>
+	        <div class="cell">
+	            <h2><i class="fa fa-check"></i></h2>
+	        </div>
+	        <div class="cell">
+	            <p>£47 <%= t('.value') %></p>
+	        </div>
+	    </div>
+
+	    <div class="rowcell">
+	        <div class="cell">
+	            <p><%= t('.servicestitle5') %></p>
+	        </div>
+	        <div class="cell">
+	            <h2><i class="fa fa-check"></i></h2>
+	        </div>
+	        <div class="cell">
+	            <h2><i class="fa fa-check"></i></h2>
+	        </div>
+	        <div class="cell">
+	            <p>£27 <%= t('.value') %></p>
+	        </div>
+	    </div>
+
+	    <div class="rowcell">
+	        <div class="cell">
+	            <p><%= t('.servicestitle6') %></p>
+	        </div>
+	        <div class="cell">
+	            <h2><i class="fa fa-check"></i></h2>
+	        </div>
+	        <div class="cell">
+	            <h2><i class="fa fa-check"></i></h2>
+	        </div>
+	        <div class="cell">
+	            <p>£47 <%= t('.value') %></p>
+	        </div>
+	    </div>
+
+	    <div class="rowcell">
+	        <div class="cell">
+	            <p><%= t('.servicestitle7') %></p>
+	        </div>
+	        <div class="cell">
+	            <h2><i class="fa fa-check"></i></h2>
+	        </div>
+	        <div class="cell">
+	            <h2><i class="fa fa-check"></i></h2>
+	        </div>
+	        <div class="cell">
+	            <p>£27 <%= t('.value') %></p>
+	        </div>
+	    </div>
+
+	    <div class="rowcell">
+	        <div class="cell">
+	            <p><%= t('.servicestitle12_html') %></p>
+	        </div>
+	        <div class="cell">
+	            <h2><i class="fa fa-check"></i></h2>
+	        </div>
+	        <div class="cell">
+	            <h2><i class="fa fa-check"></i></h2>
+	        </div>
+	        <div class="cell">
+	            <p>£47 <%= t('.value') %></p>
+	        </div>
+	    </div>
+
+	    <div class="rowcell">
+	        <div class="cell">
+	            <p><%= t('.servicestitle11_html') %></p>
+	        </div>
+	        <div class="cell">
+	            <h2><i class="fa fa-check"></i></h2>
+	        </div>
+	        <div class="cell">
+	            <h2><i class="fa fa-check"></i></h2>
+	        </div>
+	        <div class="cell">
+	            <p>£47 <%= t('.value') %></p>
+	        </div>
+	    </div>
+
+	    <div class="rowcell">
+	        <div class="cell">
+	            <p><%= t('.servicestitle10_html') %></p>
+	        </div>
+	        <div class="cell">
+	            <h2><i class="fa fa-check"></i></h2>
+	        </div>
+	        <div class="cell">
+	            <h2><i class="fa fa-check"></i></h2>
+	        </div>
+	        <div class="cell">
+	            <p>£47 <%= t('.value') %></p>
+	        </div>
+	    </div>
+
+	    <div class="rowcell">
+	        <div class="cell">
+	            <p><%= t('.servicestitle9_html') %></p>
+	        </div>
+	        <div class="cell">
+	            <h2><i class="fa fa-check"></i></h2>
+	        </div>
+	        <div class="cell">
+	            <h2><i class="fa fa-check"></i></h2>
+	        </div>
+	        <div class="cell">
+	            <p>£47 <%= t('.value') %></p>
+	        </div>
+	    </div>
+
+	    <div class="rowcell">
+	        <div class="cell">
+	            <p><%= t('.servicestitle8_html') %></p>
+	        </div>
+	        <div class="cell">
+	            <h2><i class="fa fa-check"></i></h2>
+	        </div>
+	        <div class="cell">
+	            <h2><i class="fa fa-check"></i></h2>
+	        </div>
+	        <div class="cell">
+	            <p>£247 <%= t('.value') %></p>
+	        </div>
+	    </div>
+
+	    <div class="rowcell">
+	        <div class="cell">
+	            <p><%= t('.servicestitle1') %></p>
+	        </div>
+	        <div class="cell">
+	            <h2><i class="fa fa-times"></i></h2>
+	        </div>
+	        <div class="cell">
+	            <h2><i class="fa fa-check"></i></h2>
+	        </div>
+	        <div class="cell">
+	            <p>£97 <%= t('.value') %></p>
+	        </div>
+	    </div>
+
+	    <div class="rowcell">
+	        <div class="cell">
+	            <p><%= t('.servicestitle2') %></p>
+	        </div>
+	        <div class="cell">
+	            <h2><i class="fa fa-times"></i></h2>
+	        </div>
+	        <div class="cell">
+	            <h2><i class="fa fa-check"></i></h2>
+	        </div>
+	        <div class="cell">
+	            <p>£97 <%= t('.value') %></p>
+	        </div>
+	    </div>
+
+	    <div class="rowcell">
+	        <div class="cell">
+	            <p><%= t('.servicestitle3') %></p>
+	        </div>
+	        <div class="cell">
+	            <h2><i class="fa fa-times"></i></h2>
+	        </div>
+	        <div class="cell">
+	            <h2><i class="fa fa-check"></i></h2>
+	        </div>
+	        <div class="cell">
+	            <p>£97 <%= t('.value') %></p>
+	        </div>
+	    </div>
+
+	    <div class="rowcell">
+	        <div class="cell">
+	            <p><%= t('.get') %></p>
+	        </div>
+	        <div class="cell">
+	            <h4>Gold<br />Member<br />£297</h4>
+	            <h5>Total <%= t('.value') %>:<br />£597</h5>
+	        </div>
+	        <div class="cell">
+	            <h4>Platinum<br />Member<br />£697</h4>
+	            <h5>Total <%= t('.value') %>:<br />£888</h5>
+	        </div>
+	        <div class="cell">
+	            
+	        </div>
+	    </div>
+
+	</div><!--  #table -->
+
+	<div class="row">
+	<hr class="light">
+		<p><%= t('.otherservices') %></p>
+		<note><%= t('.note1') %></note>
+		<br />
+		<note><%= t('.note2') %></note>
+	</div>
+
+</div>
+
+<div class="ten columns offset-by-one">
+
+	<div class="row">
+		<hr>
+		<p><%= t('.membdesc') %></p>
+		<hr>
+		<div id="gold"></div>
+
+		<div class="row">
+			<div class="four columns">
+				<h2 class="stargold">
+					<i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> 
+				</h2>
+				<h2><%= t('.goldmemberstitle') %></h2>
+				<h2>£297</h2>
+			</div>
+			
+			<div class="four columns offset-by-one"> 
+				<a class="button">PAYPAL BUY NOW</a>
+				<h3><%= t('.save') %> £300</h3>
+			</div>			
+		</div>
+
+		<hr class="light">
+		
+		<h5><%= t('.get') %></h5>
+		<hr class="light">
+
+		<h3><i class="fa fa-check"></i> <%= t('.servicestitle4') %></h3>
+		<p><%= t('.servicestext4') %></p><br />
+
+		<h3><i class="fa fa-check"></i> <%= t('.servicestitle5') %></h3>
+		<p><%= t('.servicestext5') %></p><br />
+
+		<h3><i class="fa fa-check"></i> <%= t('.servicestitle6') %></h3>
+		<p><%= t('.servicestext6') %></p><br />
+
+		<h3><i class="fa fa-check"></i> <%= t('.servicestitle7') %></h3>
+		<p><%= t('.servicestext7') %></p><br />
+
+		<!--  CONSULTAR
+
+		<h3><i class="fa fa-check"></i> Career Advice Online tutorial</h3>
+		<p>This online tutorial is provided by Purple Stone Academy. This tutorial is going to teach you the requirements needed for working in the UK, interview techniques, interview types, how to create your CV and cover letter, the ten most important elements in succeeding at a job interview and the ten most commonly used questions at interviews.</p><br />
+
+		<h3><i class="fa fa-check"></i> How To Apply For Jobs Online -Tutorial</h3>
+		<p>This online tutorial will teach you how to apply for jobs online. You will also receive a list of companies where you can apply for jobs. This will be of great use to you if you are a complete beginner in terms of applying for jobs in the UK.</p><br />
+
+		CONSULTAR  -->
+
+		<h3><i class="fa fa-check"></i> <%= t('.servicestitle10_html') %></h3>
+		<p><%= t('.servicestext10') %></p><br />
+
+		<h3><i class="fa fa-check"></i> <%= t('.servicestitle11_html') %></h3>
+		<p><%= t('.servicestext11') %></p><br />
+
+		<h3><i class="fa fa-check"></i> <%= t('.servicestitle12_html') %></h3>
+		<p><%= t('.servicestext12') %></p><br />
+
+		<h3><i class="fa fa-check"></i> <%= t('.servicestitle13_html') %></h3>
+		<p><%= t('.servicestext13') %></p><br />
+
+		<h3><i class="fa fa-check"></i> <%= t('.servicestitle14_html') %></h3>
+		<p><%= t('.servicestext14') %></p> 
+
+		<br />
+		<hr>
+
+		<div class="row">
+			<div id="platinum"></div>
+
+			<div class="four columns">
+				<h2 class="starplatinum">
+					<i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> 
+				</h2>
+				<h2><%= t('.platinummemberstitle') %></h2>
+				<h2>£697</h2>
+			</div>
+			
+			<div class="four columns offset-by-one"> 
+				<a class="button">PAYPAL BUY NOW</a>
+				<h3><%= t('.yourdonefor') %><br /><%= t('.save') %> £191</h3>
+			</div>			
+		</div>
+
+		<hr class="light">
+		
+		<h5><%= t('.get') %></h5>
+		<hr class="light">
+
+		<h3><i class="fa fa-check"></i> <%= t('.servicestitle1') %></h3>
+		<p><%= t('.servicestext1') %></p><br />
+
+		<h3><i class="fa fa-check"></i> <%= t('.servicestitle2') %></h3>
+		<p><%= t('.servicestext2') %></p><br />
+ 
+		<h3><i class="fa fa-check"></i> <%= t('.servicestitle3') %></h3>
+		<p><%= t('.servicestext3') %></p><br />
+
+		<h3><i class="fa fa-check"></i> <%= t('.servicestitle4') %></h3>
+		<p><%= t('.servicestext4') %></p><br />  
+ 
+		<h3><i class="fa fa-check"></i> <%= t('.servicestitle5') %></h3>
+		<p><%= t('.servicestext5') %></p><br /> 
+
+		<h3><i class="fa fa-check"></i> <%= t('.servicestitle6') %></h3>
+		<p><%= t('.servicestext6') %></p><br />    
+
+		<h3><i class="fa fa-check"></i> <%= t('.servicestitle7') %></h3>
+		<p><%= t('.servicestext7') %></p><br />      
+
+		<!--  CONSULTAR
+
+		<h3><i class="fa fa-check"></i> Career Advice Online tutorial</h3>
+		<p>This online tutorial is provided by Purple Stone Academy. This tutorial is going to teach you the requirements needed for working in the UK, interview techniques, interview types, how to create your CV and cover letter, the ten most important elements in succeeding at a job interview and the ten most commonly used questions at interviews.</p><br />  
+
+		<h3><i class="fa fa-check"></i> How To Apply For Jobs Online -Tutorial</h3>
+		<p>This online tutorial will teach you how to apply for jobs online. You will also receive a list of companies where you can apply for jobs. This will be of great use to you if you are a complete beginner in terms of applying for jobs in the UK.</p><br />    
+
+		CONSULTAR  -->
+
+		<h3><i class="fa fa-check"></i> <%= t('.servicestitle10_html') %></h3>
+		<p><%= t('.servicestext10') %></p><br />     
+ 
+		<h3><i class="fa fa-check"></i> <%= t('.servicestitle11_html') %></h3>
+		<p><%= t('.servicestext11') %></p><br />     
+ 
+		<h3><i class="fa fa-check"></i> <%= t('.servicestitle12_html') %></h3>
+		<p><%= t('.servicestext12') %></p><br />   
+
+		<h3><i class="fa fa-check"></i> <%= t('.servicestitle13_html') %></h3>
+		<p><%= t('.servicestext13') %></p><br />     
+
+		<h3><i class="fa fa-check"></i> <%= t('.servicestitle14_html') %></h3>
+		<p><%= t('.servicestext14') %></p><br />
+
+	</div>	
+
+</div>
