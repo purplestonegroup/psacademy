@@ -82,7 +82,11 @@ note {
 .fa-times {
   color: red;
 }
-
+sup {
+  font-size: 0.50em;
+  vertical-align: super;
+  line-height: 0;
+}
 /* #Back to top
 ================================================== */
 #back-top {
@@ -426,6 +430,9 @@ margin-top: -20px;
 
 .course, .member {
   padding: 13px;
+}
+.chooseus .row .columns{
+  padding-left: 10px;
 }
 
 section.video_form {

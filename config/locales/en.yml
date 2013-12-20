@@ -188,9 +188,7 @@ en:
       8week: "8 weeks"
       12week: "12 weeks"
 
-      firstfee: |
-        First time's registration fee
-        (+ £50)
+      firstfee: "First time's registration fee (+ £50)"
 
       celltitle1: "Classes at Purple Stone Academy"
       celltitle2: "Audiobook of 'Innovative Ways To Learn English Quickly'"
@@ -204,16 +202,17 @@ en:
       celltitle10: "CV correction"
       celltitle11: "1 hour Learning Progress Assessment once every two week"
       celltitle12: "Tutorial of Accelerated learning"
-      celltitle13: "Maths Cashier Exam and Certificate"
-      celltitle13: "Food Safety level 2 City and Guilds"
-      celltitle13: "1 hour coaching every 2 weeks"
+      celltitle13: "Job Seeking Tutorial"
+      celltitle14: "Maths Cashier Exam and Certificate"
+      celltitle15: "Food Safety level 2 City and Guilds"
+      celltitle16: "1 hour coaching every 2 weeks"
 
       membdesc: "Memberships Description:"
       whatinclude: "Our Silver Membership includes:"
 
       membershipstitle1: "Silver Membership"
       membershipstitle2: "Gold Membership"
-      membershipstitle3: "Pltinum Membership"
+      membershipstitle3: "Platinum Membership"
 
       memberfeaturetitle1: "Classes at Purple Stone Academy"
       memberfeaturetext1: |
@@ -252,37 +251,37 @@ en:
       memberfeaturetitle7: "Free tea and coffee"
       memberfeaturetext7: "We like our students to feel relaxed and comfortable and that is why we offer free tea and coffee."
 
-      memberfeaturetitle7: "1 hour Learn Realquick™ Learning Progress Assessment once every 8 weeks"
-      memberfeaturetext7: "We believe it is essential that you tell us what your aspirations, strengths and weaknesses are so that we can help you in the best way that we can. That is why, when you join any of our courses, you will benefit from a one hour learning assessment. You will fill in a form that will establish what your strengths and weaknesses are and your career goals so that we can guide you according to your individual requirements."
+      memberfeaturetitle8: "1 hour Learn Realquick™ Learning Progress Assessment once every 8 weeks"
+      memberfeaturetext8: "We believe it is essential that you tell us what your aspirations, strengths and weaknesses are so that we can help you in the best way that we can. That is why, when you join any of our courses, you will benefit from a one hour learning assessment. You will fill in a form that will establish what your strengths and weaknesses are and your career goals so that we can guide you according to your individual requirements."
 
-      memberfeaturetitle8: "CV correction"
-      memberfeaturetext8: "If you are like most of our students, you may be looking for a job and may require a CV correction."
+      memberfeaturetitle9: "CV correction"
+      memberfeaturetext9: "If you are like most of our students, you may be looking for a job and may require a CV correction."
 
-      memberfeaturetitle9: "Tutorial of Accelerated learning"
-      memberfeaturetext9: |
+      memberfeaturetitle10: "Tutorial of Accelerated learning"
+      memberfeaturetext10: |
         In this step –by –step language tutorial you will learn how to improve your English quickly using accelerated language techniques.
         You will learn memory techniques, how to use visual material, music and whole brain learning to accelerate your learning.
 
-      memberfeaturetitle10: "Job Seeking Tutorial"
-      memberfeaturetext10: |
+      memberfeaturetitle11: "Job Seeking Tutorial"
+      memberfeaturetext11: |
         You will learn fantastic strategies about how to get your first job in London
         You will learn interview techniques
         You will find out how to be a winner at job interviews
         You will learn how to get your dream job
         Find out where to apply online and offline
 
-      memberfeaturetitle11: "Maths Cashier Certificate and Exam"
-      memberfeaturetext11: |
+      memberfeaturetitle12: "Maths Cashier Certificate and Exam"
+      memberfeaturetext12: |
         Get a Maths Cashier Certificate awarded by Purple Stone Career Advice
         This certificate shows a potential employer you have basic numeracy skills necessary for bartenders and cashiers
 
-      memberfeaturetitle12: "Food Safety Certificate and Exam"
-      memberfeaturetext12: |
+      memberfeaturetitle13: "Food Safety Certificate and Exam"
+      memberfeaturetext13: |
         Get a Food Safety certificate awarded by Purple Stone Academy
         This will help you for working as a kitchen porter or in catering jobs dealing with food
 
-      memberfeaturetitle13: "1 hour of coaching every 2 weeks"
-      memberfeaturetext13: |
+      memberfeaturetitle14: "1 hour of coaching every 2 weeks"
+      memberfeaturetext14: |
         Get help and guidance in achieving your career goals
         This session is going to be very helpful for you if you have certain goals you want to achieve but you are unsure how to do that
 
