@@ -285,6 +285,62 @@ en:
         Get help and guidance in achieving your career goals
         This session is going to be very helpful for you if you have certain goals you want to achieve but you are unsure how to do that
 
+    chooseus:
+      findout: "Find out more"
+
+      chooseustitle1: "Benefits"
+      chooseus1_subtitle1_html: "Learn Realquick<sup>TM</sup> Individual study programme"
+      chooseus1_text1_html: "When you sign up for any of our courses, we assess your strengths and weaknesses and give you the Realquick<sup>TM</sup> individual study programme so that you can achieve your objectives fast. You will learn about accelerated learning techniques."
+      chooseus1_subtitle2: "Learn English Fast"
+      chooseus1_text2_html: "Our School uses accelerated learning techniques in order to get students to learn fast with our own Learn Realquick<sup>TM</sup> method."
+      chooseus1_subtitle3: "Personalised attention"
+      chooseus1_text3: "Our courses are priced very competitively, especially considering the level of personal attention we give to each student. Our teachers are always happy to answer any questions you may have and provide support for meeting your needs. You can keep all the learning materials. Free tea and coffee."
+      chooseus1_subtitle4: "100% Money Back Guarantee"
+      chooseus1_text4: "We are so confident that you will improve your English that with our lessons that, if after you had your Individual Study Programme, and you had participated in your first lesson, you don’t like our system, we will give you a full refund."
+      chooseus1_subtitle5: "Coaching"
+      chooseus1_text5: "You will benefit from one to one coaching sessions with our teachers. (choose the frequency of your coaching sessions according to your membership level)This is one of the most important sessions as it helps you become focused and motivated to achieve your goals."
+
+      chooseustitle2: "Our School"
+      chooseus2_subtitle1: "Structure"
+      chooseus2_text1: "We ensure that all our classes are tailored to your unique needs. All our English courses are structured to cater for your level, ability and overall objectives."
+      chooseus2_subtitle2: "Support"
+      chooseus2_text2: "Purple Stone Academy is an English language school geared towards helping foreign students improve their English fast so that they can get work and continue their study."
+      chooseus2_subtitle3: "Encouragement"
+      chooseus2_text3: |
+        We provide you with English language lessons, support networks and <%= active_link_to "accommodation", resources_path, class: "link" %> so that you can meet your educational needs.
+      chooseus2_subtitle4: "Evaluation"
+      chooseus2_text4: |
+        Our English School offers you The <%= active_link_to "Learn Realquick Method", method_path, class: "link" %><sup>TM</sup> for Learning English Fast that will enable you to: Speak English, Read with confidence, Improve your Pronunciation, Listening and Writing.
+      chooseus2_subtitle5: "Dynamic Activities"
+      chooseus2_text5: "Learn English with dynamic classroom and social activities! We use the technique called 'change of state' in order to maximise the learning experience."
+
+      chooseustitle3: "Our Teachers"
+      chooseus3_subtitle1: "Fully Trained"
+      chooseus3_text1_html: "Our Teachers are fully trained and have plenty of experience to teach our Learn Realquick<sup>TM</sup> teaching Method."
+      chooseus3_subtitle2: "Experienced"
+      chooseus3_text2: "Our teachers have had experience with a whole variety of levels and will develop a personalised learning programme for you."
+      chooseus3_subtitle3: "Friendly"
+      chooseus3_text3: "Our teachers are friendly and always happy to help you achieve your objectives."
+      chooseus3_subtitle4: "Engaging"
+      chooseus3_text4: "Their aim is to equip you with skills to understand the language on a more intuitive level. We “edutain”, which means that we educate while entertaining you as well."
+      chooseus3_subtitle5: "Dynamic Activities"
+      chooseus3_text5: "'As a teacher, I am constantly given challenges with every student that I come across. My overall teaching skills and skill set have improved because of the different needs, backgrounds, skill sets and demands that are unique to each individual student. Purple Stone Academy offers a great environment for advancing rapidly in the study of English, because it gives each student a tailored approach to learning English. You can expect to have a much higher rate of achievement simply because the class sizes are very small, averaging 4 to 6 students (maximum 12) which means the attention from the teacher will be much greater for each individual student!' (Lily, teacher)"
+
+      chooseustitle4: "Our Students"
+      chooseus4_subtitle1: "Multinational"
+      chooseus4_text1: "Our Students come from all over the world. Most of them are commonly from Europe, especially Spain, Italy, France, Romania, Poland, Portugal."
+      chooseus4_note1: "Maki came to Purple Stone Academy willing to improve her English. She is improving rapidly thanks to the tailored programme her teacher has created for her."
+      chooseus4_subtitle2: "Young"
+      chooseus4_text2: "Our Students are generally young people looking for short courses to improve their English quickly before getting a job or looking to further their study."
+      chooseus4_note2: "Marcony has studied with us for three months. He was unable to speak any English when he started the course and now he is able to return to his country having improved his English."
+      chooseus4_subtitle3: "Friendly"
+      chooseus4_text3: "All students are looking to make new friendships and are happy to participate in our social activities."
+      chooseus4_note3: "Beata has studied with us for about a month. She has attended other schools but she thoroughly prefers our school because of the level of support she gets from us."
+
+
+
+
+
 
     resources:
       internships: "Internships"
