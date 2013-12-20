@@ -1,145 +1,99 @@
 <section class="courses">
 
 	<div class="row">
-		<h2>Choose Your Course Here</h2>
+		<h2><%= t('.title') %></h2>
 		<hr class="light">
 
 		<div class="four columns course">
-			<h3>English Course<br />elementary level</h3>
-			<h4>9:00-11:00 Monday To Friday</h4>
+			<h3><%= simple_format t('.coursetitle1') %></h3>
+			<h4><%= t('.courseopenhours1') %></h4>
 
 			<div>
-				<a class="button">Choose Your Membership</a>
-				<a class="button silver">Silver</a>
-				<a class="button gold">Gold</a>
-				<a class="button platinum">Platinum</a>
-				<p>(link to buy now page)</p>
+				<%= active_link_to "Choose Your Membership", memberships_path, class: "button" %>
+				<%= active_link_to "Silver", memberships_path(:anchor => "table"), class: "button silver" %>
+				<%= active_link_to "Gold", memberships_path(:anchor => "table"), class: "button gold" %>
+				<%= active_link_to "Platinum", memberships_path(:anchor => "table"), class: "button platinum" %>
 			</div>
 
-			<h2>Flexible start</h2>
-			<h4>This is a fantastic system for learning English.</h4>
-			<h4>LEARN:</h4>
+			<h2><%= t('.coursestart') %></h2>
+			<h4><%= t('.coursestarttext1') %></h4>
+			<h4><%= t('.learn') %></h4>
 			<ol>
-				<li>Pronounce words under instruction</li>
-				<li>Read and understand basic instructions</li>
-				<li>Make quick progress with all areas of English</li>
-				<li>Learn basic phrases</li>
-				<li>Improve your work prospects</li>
-				<li>Advance rapidly with your English</li>
-				<li>Learn in a dynamic and friendly environment</li>
-				<li>Practice Speaking, Writing, Listening, Reading</li>
-				<li>Our multilingual team is always happy to help with any questions you may have. We can help you find the right course for your needs, find accommodation and give you careers’ advice. We speak English, Spanish, French, Italian and Romanian.</li>
+				<% t('.coursecontentlist1').each_line do |listitem| %>
+				  <li><%= listitem %></li>
+				<% end %>
 			</ol>
 			<hr class="light">
 
-			<p>10 hours of tuition per week.<br />
-			Personalised Learning Programme.<br />
-			Three times more teacher attention than in a regular school.<br />
-			Regular evaluation.<br />
-			Certificate of achievement at the end of minimum 20 hours of study.<br />
-			Access to free tips and strategies for learning English and blog.<br />
-			Weekly Social Programme.<br />
-			Multilingual support.</p>
+			<p><%= simple_format t('.coursecontenttext1') %></p>
 
 			<div>
-				<a class="button">Choose Your Membership</a>
-				<a class="button silver">Silver</a>
-				<a class="button gold">Gold</a>
-				<a class="button platinum">Platinum</a>
-				<p>(link to buy now page)</p>
+				<%= active_link_to "Choose Your Membership", memberships_path, class: "button" %>
+				<%= active_link_to "Silver", memberships_path(:anchor => "table"), class: "button silver" %>
+				<%= active_link_to "Gold", memberships_path(:anchor => "table"), class: "button gold" %>
+				<%= active_link_to "Platinum", memberships_path(:anchor => "table"), class: "button platinum" %>
 			</div>
 		</div>
 
 		<div class="four columns course">
-			<h3>English Course<br />Pre –intermediate level</h3>
-			<h4>11:30-1:30 Monday To Friday</h4>
+			<h3><%= simple_format t('.coursetitle2') %></h3>
+			<h4><%= t('.courseopenhours2') %></h4>
 
 			<div>
-				<a class="button">Choose Your Membership</a>
-				<a class="button silver">Silver</a>
-				<a class="button gold">Gold</a>
-				<a class="button platinum">Platinum</a>
-				<p>(link to buy now page)</p>
+				<%= active_link_to "Choose Your Membership", memberships_path, class: "button" %>
+				<%= active_link_to "Silver", memberships_path(:anchor => "table"), class: "button silver" %>
+				<%= active_link_to "Gold", memberships_path(:anchor => "table"), class: "button gold" %>
+				<%= active_link_to "Platinum", memberships_path(:anchor => "table"), class: "button platinum" %>
 			</div>
 			
-			<h2>Flexible start</h2>
-			<h4>This is a personalised system where you will advance rapidly.</h4>
-			<h4>LEARN:</h4>
+			<h2><%= t('.coursestart') %></h2>
+			<h4><%= t('.coursestarttext2') %></h4>
+			<h4><%= t('.learn') %></h4>
 			<ol>
-				<li>Expand your vocabulary and improve your fluency</li>
-				<li>Speak in various scenarios and situations</li>
-				<li>Read and understand whole sentences without being prompted</li>
-				<li>Make quick progress with all areas of English</li>
-				<li>Converse at a basic level of English</li>
-				<li>Improve your work prospects</li>
-				<li>Advance rapidly with your English</li>
-				<li>Learn in a dynamic and friendly environment</li>
-				<li>Practice Speaking, Writing, Listening, Reading.</li>
+				<% t('.coursecontentlist2').each_line do |listitem| %>
+				  <li><%= listitem %></li>
+				<% end %>
 			</ol>
 			<hr class="light">
 
-			<p>Our multilingual team is always happy to help with any questions you may have. We can help you find the right course for your needs, find accommodation and give you careers’ advice. We speak English, Spanish, French, Italian and Romanian.</p>
-
-			<p>10 hours of tuition per week.<br />
-			Personalised Learning Programme.<br />
-			Three times more teacher attention than in a regular school.<br />
-			Regular evaluation.<br />
-			Certificate of achievement at the end of minimum 20 hours of study.<br />
-			Access to free tips and strategies for learning English and blog.<br />
-			Weekly Social Programme.<br />
-			Multilingual support.</p>
+			<p><%= simple_format t('.coursecontenttext2') %></p>
 
 			<div>
-				<a class="button">Choose Your Membership</a>
-				<a class="button silver">Silver</a>
-				<a class="button gold">Gold</a>
-				<a class="button platinum">Platinum</a>
-				<p>(link to buy now page)</p>
+				<%= active_link_to "Choose Your Membership", memberships_path, class: "button" %>
+				<%= active_link_to "Silver", memberships_path(:anchor => "table"), class: "button silver" %>
+				<%= active_link_to "Gold", memberships_path(:anchor => "table"), class: "button gold" %>
+				<%= active_link_to "Platinum", memberships_path(:anchor => "table"), class: "button platinum" %>
 			</div>
 		</div>
 
 		<div class="four columns course">
-			<h3>English Course<br />Intermediate level</h3>
-			<h4>2:00-4:00 Monday To Friday</h4>
+			<h3><%= simple_format t('.coursetitle3') %></h3>
+			<h4><%= t('.courseopenhours3') %></h4>
 
 			<div>
-				<a class="button">Choose Your Membership</a>
-				<a class="button silver">Silver</a>
-				<a class="button gold">Gold</a>
-				<a class="button platinum">Platinum</a>
-				<p>(link to buy now page)</p>
+				<%= active_link_to "Choose Your Membership", memberships_path, class: "button" %>
+				<%= active_link_to "Silver", memberships_path(:anchor => "table"), class: "button silver" %>
+				<%= active_link_to "Gold", memberships_path(:anchor => "table"), class: "button gold" %>
+				<%= active_link_to "Platinum", memberships_path(:anchor => "table"), class: "button platinum" %>
 			</div>
 			
-			<h2>Flexible start</h2>
-			<h4>This is a powerful and enjoyable system for you to improve your English.</h4>
-			<h4>LEARN:</h4>
+			<h2><%= t('.coursestart') %></h2>
+			<h4><%= t('.coursestarttext3') %></h4>
+			<h4><%= t('.learn') %></h4>
 			<ol>
-				<li>Make progress with all areas of English and communicate with confidence in a wide range of situations</li>
-				<li>Manage a whole scenario of situations, from customer care to negotiations and interviews. Use your language skills in a more formal or work setting</li>
-				<li>Ask for information from an educational institution</li>
-				<li>Improve your work prospects</li>
-				<li>Advance rapidly with your English</li>
-				<li>Learn in a dynamic and friendly environment</li>
-				<li>Practice Speaking, Writing, Listening,Reading</li>
-				<li>We can help you find the right course for your needs, find accommodation and give you careers’ advice. We speak English, Spanish, French, Italian and Romanian.</li>
+				<% t('.coursecontentlist3').each_line do |listitem| %>
+				  <li><%= listitem %></li>
+				<% end %>
 			</ol>
 			<hr class="light">
 
-			<p>10 hours of tuition per week.<br />
-			Personalised Learning Programme.<br />
-			Three times more teacher attention than in a regular school.<br />
-			Regular evaluation.<br />
-			Certificate of achievement at the end of minimum 20 hours of study.<br />
-			Access to free tips and strategies for learning English and blog.<br />
-			Weekly Social Programme.<br />
-			Multilingual support.</p>
+			<p><%= simple_format t('.coursecontenttext3') %></p>
 
 			<div>
-				<a class="button">Choose Your Membership</a>
-				<a class="button silver">Silver</a>
-				<a class="button gold">Gold</a>
-				<a class="button platinum">Platinum</a>
-				<p>(link to buy now page)</p>
+				<%= active_link_to "Choose Your Membership", memberships_path, class: "button" %>
+				<%= active_link_to "Silver", memberships_path(:anchor => "table"), class: "button silver" %>
+				<%= active_link_to "Gold", memberships_path(:anchor => "table"), class: "button gold" %>
+				<%= active_link_to "Platinum", memberships_path(:anchor => "table"), class: "button platinum" %>
 			</div>
 		</div>
 
