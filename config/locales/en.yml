@@ -52,6 +52,7 @@ en:
 
     courses:
       title: "Choose Your Course Here"
+      membership: "Choose Your Membership"
 
       coursetitle1: |
         English Course
@@ -69,9 +70,10 @@ en:
         Advance rapidly with your English
         Learn in a dynamic and friendly environment
         Practice Speaking, Writing, Listening, Reading
-        Our multilingual team is always happy to help with any questions you may have. We can help you find the right course for your needs, find accommodation and give you careers’ advice. We speak English, Spanish, French, Italian and Romanian
       
       coursecontenttext1: |
+        Our multilingual team is always happy to help with any questions you may have. We can help you find the right course for your needs, find accommodation and give you careers’ advice. We speak English, Spanish, French, Italian and Romanian.
+        
         10 hours of tuition per week.
         Personalised Learning Programme.
         Three times more teacher attention than in a regular school.
@@ -126,9 +128,10 @@ en:
         Advance rapidly with your English
         Learn in a dynamic and friendly environment
         Practice Speaking, Writing, Listening,Reading
-        We can help you find the right course for your needs, find accommodation and give you careers’ advice. We speak English, Spanish, French, Italian and Romanian
       
       coursecontenttext3: |
+        Our multilingual team is always happy to help with any questions you may have. We can help you find the right course for your needs, find accommodation and give you careers’ advice. We speak English, Spanish, French, Italian and Romanian.
+        
         10 hours of tuition per week.
         Personalised Learning Programme.
         Three times more teacher attention than in a regular school.
@@ -148,7 +151,7 @@ en:
       methodtext3: "This is a highly effective system for learning English that will give you the confidence YOU need to speak English quickly and well. The books we use are: Headway, English Grammar in Use, Cutting Edge, English Banana, other resources , workbooks and our own resources. Study materials are included –photocopies provided!"
       methodtitle4: "Learning With Accelerated English Language Courses at Purple Stone Academy"
       methodtext4: |
-        At Purple Stone Academy, we use our unique LEARN REALQUICK ™ method that enhances the students’ learning with the use of multisensory techniques, memory techniques, whole brain learning techniques, personal development content, and the creation of a fun and enjoyable environment for learning.
+        At Purple Stone Academy, we use our unique LEARN REALQUICK<sup>TM</sup> method that enhances the students’ learning with the use of multisensory techniques, memory techniques, whole brain learning techniques, personal development content, and the creation of a fun and enjoyable environment for learning.
         
         These techniques take into consideration the preferred learning styles of the learners, and the fact that the most effective learning happens in a relaxed, friendly and positive environment where students can make the most of their strengths and accelerate the process of learning.
         
@@ -175,6 +178,7 @@ en:
       memberstitle3: "Platinum Members"
       memberstext3: "Platinum Memberships are excellent because you enjoy all the benefits of the Gold Members plus a learning progress assessment every two weeks, a Maths cashier certificate, a Job seeking tutorial and coaching every 2 weeks."
       findout: "Find out more"
+      value: "Value"
 
       include: "Including"
       get: "What You Get:"
@@ -208,7 +212,9 @@ en:
       celltitle16: "1 hour coaching every 2 weeks"
 
       membdesc: "Memberships Description:"
-      whatinclude: "Our Silver Membership includes:"
+      whatincludesilver: "Our Silver Membership includes:"
+      whatincludegold: "Our Gold Membership includes:"
+      whatincludeplatinum: "Our Platinum Membership includes:"
 
       membershipstitle1: "Silver Membership"
       membershipstitle2: "Gold Membership"
@@ -245,13 +251,13 @@ en:
       memberfeaturetitle5: "Get Free Learning Materials"
       memberfeaturetext5: "You will get free learning materials, and you don’t need a coursebook."
 
-      memberfeaturetitle6: "Get our Learn Realquick™ Infographics pack"
-      memberfeaturetext6: "Tis will help you because it will show you the key things you need to do in order to learn English."
+      memberfeaturetitle6_html: "Get our Learn Realquick<sup>TM</sup> Infographics pack"
+      memberfeaturetext6: "This will help you because it will show you the key things you need to do in order to learn English."
 
       memberfeaturetitle7: "Free tea and coffee"
       memberfeaturetext7: "We like our students to feel relaxed and comfortable and that is why we offer free tea and coffee."
 
-      memberfeaturetitle8: "1 hour Learn Realquick™ Learning Progress Assessment once every 8 weeks"
+      memberfeaturetitle8_html: "1 hour Learn Realquick<sup>TM</sup> Learning Progress Assessment once every 8 weeks"
       memberfeaturetext8: "We believe it is essential that you tell us what your aspirations, strengths and weaknesses are so that we can help you in the best way that we can. That is why, when you join any of our courses, you will benefit from a one hour learning assessment. You will fill in a form that will establish what your strengths and weaknesses are and your career goals so that we can guide you according to your individual requirements."
 
       memberfeaturetitle9: "CV correction"
@@ -306,11 +312,12 @@ en:
       chooseus2_subtitle2: "Support"
       chooseus2_text2: "Purple Stone Academy is an English language school geared towards helping foreign students improve their English fast so that they can get work and continue their study."
       chooseus2_subtitle3: "Encouragement"
-      chooseus2_text3: |
-        We provide you with English language lessons, support networks and <%= active_link_to "accommodation", resources_path, class: "link" %> so that you can meet your educational needs.
+      chooseus2_text3_part1: "We provide you with English language lessons, support networks and "
+      chooseus2_text3_part2: "accomodation"
+      chooseus2_text3_part3: " so that you can meet your educational needs."
       chooseus2_subtitle4: "Evaluation"
-      chooseus2_text4: |
-        Our English School offers you The <%= active_link_to "Learn Realquick Method", method_path, class: "link" %><sup>TM</sup> for Learning English Fast that will enable you to: Speak English, Read with confidence, Improve your Pronunciation, Listening and Writing.
+      chooseus2_text4_part1: "Our English School offers you The "
+      chooseus2_text4_part2_html: "<sup>TM</sup> for Learning English Fast that will enable you to: Speak English, Read with confidence, Improve your Pronunciation, Listening and Writing."
       chooseus2_subtitle5: "Dynamic Activities"
       chooseus2_text5: "Learn English with dynamic classroom and social activities! We use the technique called 'change of state' in order to maximise the learning experience."
 
@@ -324,7 +331,7 @@ en:
       chooseus3_subtitle4: "Engaging"
       chooseus3_text4: "Their aim is to equip you with skills to understand the language on a more intuitive level. We “edutain”, which means that we educate while entertaining you as well."
       chooseus3_subtitle5: "Dynamic Activities"
-      chooseus3_text5: "'As a teacher, I am constantly given challenges with every student that I come across. My overall teaching skills and skill set have improved because of the different needs, backgrounds, skill sets and demands that are unique to each individual student. Purple Stone Academy offers a great environment for advancing rapidly in the study of English, because it gives each student a tailored approach to learning English. You can expect to have a much higher rate of achievement simply because the class sizes are very small, averaging 4 to 6 students (maximum 12) which means the attention from the teacher will be much greater for each individual student!' (Lily, teacher)"
+      chooseus3_text5: "'As a teacher, I am constantly given challenges with every student that I come across. My overall teaching skills and skill set have improved because of the different needs, backgrounds, skill sets and demands that are unique to each individual student. Purple Stone Academy offers a great environment for advancing rapidly in the study of English, because it gives each student a tailored approach to learning English. You can expect to have a much higher rate of achievement simply because the class sizes are very small, averaging 4 to 6 students (maximum 12) which means the attention from the teacher will be much greater for each individual student!'"
 
       chooseustitle4: "Our Students"
       chooseus4_subtitle1: "Multinational"

@@ -7,12 +7,12 @@ es:
     courses: "CURSOS"
     method: "MÉTODOS"
     memberships: "MEMBRESÍAS"
-    chooseus: "POR QUÉ NOSOTROS?"
+    chooseus: "¿POR QUÉ NOSOTROS?"
     stories: "TESTIMONIOS"
     resources: "RECURSOS"
     contact: "CONTACTO"
     aboutustitle: "Sobre Nosotros"
-    whatis: "Que es Purple Stone Academy?"
+    whatis: "¿Que es Purple Stone Academy?"
     aboutustext: "Purple Stone Group es una empresa especializada en el sector inmobiliario, la educación, marketing y multimedia. El grupo empresarial, a través de su sociedades anónimas independientes ofrece una gran cantidad de productos y servicios que reflejan el alto grado de satisfacción del cliente."
     affiliatetitle: "Únete a nuestro Programa de Afiliados Ahora!"
     affiliatetext: "Envíenos un correo electrónico, usted puede unirse a nuestro programa de afiliados gratis y ganar grandes comisiones por las ventas generadas a partir de sus referencias!"
@@ -49,6 +49,305 @@ es:
 
 
   contents:
+
+    courses:
+      title: "Elige aquí tu curso"
+      membership: "Elige tu tipo de suscripción"
+      coursestart: "Comienzo flexible"
+      learn: "APRENDE:"
+
+      coursetitle1: |
+        Curso de inglés
+        Nivel básico
+      courseopenhours1: "9:00-11:00 Lunes a viernes"
+      coursestarttext1: "Este es un sistema fantástico de estudiar inglés."
+      coursecontentlist1: |
+        Pronunciar palabras bajo supervisión
+        Leer y entender instrucciones básicas
+        Rápido progreso en distintas areas del inglés
+        Aprende frases básicas
+        Mejora tus perspectivas de encontrar trabajo
+        Avanza rápidamente con tu inglés
+        Aprende en un ambiente dinámico y entretenido
+        Practica la lectura, escritura, conversación y listening
+      coursecontenttext1: |
+        Nuestro políglota equipo estará encantado de ayudarte con cualquier duda. Podemos ayudarte a encontrar el curso que se adapte a tus necesidades, buscar un alojamiento y darte consejos para mejorar tus expectativas de trabajo. Hablamos, inglés, español, italiano, francés y rumano
+
+        10 horas de clase por semana.
+        Programa de aprendizaje personalizado.
+        Tres veces más atención del profesor que en cualquier otra escuela.
+        Evaluación regular.
+        Certificado de asistencia y logros después de un curso de mínimo 20 horas.
+        Acceso a consejos y estrategias gratis para aprender inglés y al blog.
+        Apoyo en diferentes idiomas.
+
+      coursetitle2: |
+        Curso de inglés
+        Nivel preintermedio
+      courseopenhours2: "11:30-1:30 Lunes a viernes"
+      coursestarttext2: "Sistema personalizado con el que avanzarás rápidamente."
+      coursecontentlist2: |
+        Aumentar tu vocabulario y tu fluidez
+        Hablar en diferentes situaciones y escenarios
+        Leer y entender frases sin ser presionado
+        Rápido progreso en distintas áreas del inglés
+        Conversación a un nivel básico de inglés
+        Mejora tus perspectivas de encontrar trabajo
+        Avanza rápidamente con tu inglés
+        Aprende en un ambiente dinámico y entretenido
+        Practica la lectura, escritura, conversación y listening
+
+      coursecontenttext2: |
+        Nuestro políglota equipo estará encantado de ayudarte con cualquier duda. Podemos ayudarte a encontrar el curso que se adapte a tus necesidades, buscar un alojamiento y darte consejos para mejorar tus expectativas de trabajo. Hablamos, inglés, español, italiano, francés y rumano.
+
+        10 horas de clase por semana.
+        Programa de aprendizaje personalizado.
+        Tres veces más atención del profesor que en cualquier otra escuela.
+        Evaluación regular.
+        Certificado de asistencia y logros después de un curso de mínimo 20 horas.
+        Acceso a consejos y estrategias gratis para aprender inglés y al blog.
+        Apoyo en diferentes idiomas.
+
+      coursetitle3: |
+        Curso de inglés
+        Nivel intermedio
+      courseopenhours3: "2:00-4:00 Lunes a viernes"
+      coursestarttext3: "Eficaz y entretenido sistema para mejorar tu inglés."
+      coursecontentlist3: |
+        Progresa en todas las áreas del inglés y comunícate con confianza en un amplio rango de situaciones
+        Controla una situación completa desde servicio al cliente a entrevistas de trabajo
+        Utiliza tus capacidades para usar el inglés en un ambiente formal
+        Pide información a una institución de educación
+        Mejora tus perspectivas de encontrar trabajo
+        Avanza rápidamente con tu inglés
+        Aprende en un ambiente dinámico y entretenido
+        Practica la lectura, escritura, conversación y listening
+
+      coursecontenttext3: |
+        Nuestro políglota equipo estará encantado de ayudarte con cualquier duda. Podemos ayudarte a encontrar el curso que se adapte a tus necesidades, buscar un alojamiento y darte consejos para mejorar tus expectativas de trabajo. Hablamos, inglés, español, italiano, francés y rumano.
+        
+        10 horas de clase por semana.
+        Programa de aprendizaje personalizado.
+        Tres veces más atención del profesor que en cualquier otra escuela.
+        Evaluación regular.
+        Certificado de asistencia y logros después de un curso de mínimo 20 horas.
+        Acceso a consejos y estrategias gratis para aprender inglés y al blog.
+        Programa social semanal.
+        Apoyo en diferentes idiomas.
+
+
+    method:
+      title: "Nuestro método de enseñanza"
+      methodtitle1: "Efectivo"
+      methodtext1: "Nuestro método de enseñanza es un poderoso y efectivo sistema que usa técnicas de memora para ayudarte y acelerar el proceso de aprendizaje no solo en inglés si no, en cualquier cosa que quieras aprender o recordar. Mejora tu nivel de inglés a través de apopyo, motivación, evaluiación y aprendizaje estructurado."
+      methodtitle2: "Personalizado"
+      methodtext2: "Clases con una media de estudiantes entre 4 o 6 (máximo 12). Tendrás hasta 3 veces más atención de los profesores y verdadera conversación, lectura y listening que en otras escuelas debido a los pocos alumnos de la clase."
+      methodtitle3: "Variado y divertido"
+      methodtext3: "Sistema altamente efectivo para aprender inglés que te da la confianza que necesitas para aprenderlo rápido y bien. Los libros que usamos son: Headway, English Grammar in Use, Cutting Edge, English Banana, otras fuentes, workbooks y tus propios recursos. ¡Los materiales de estudio están incluidos!"
+      methodtitle4: "Aprender con los cursos Accelerated English Language Cursos de Purple Stone Academy"
+      methodtext4: |
+        En Purple Stone Academy, usamos nuestro método único LEARN REALQUICK<sup>TM</sup> que mejora el aprendizaje de los estudiantes con el uso de técnicas multisensoriales, de memoria y otras que incluyen toda la actividad cerebral, desarrollo personal, contenido y creación de un ambiente divertido y ameno para aprender. Estas técnicas tienen en cuenta los sistemas de aprendizaje preferidos por los estudiantes, y el hecho de que el mejor aprendizaje ocurre en un ambiente relajado, amistoso y positivo donde los estudiantes pueden sacar el máximo partido de sus capacidades y acelerar el proceso de aprendizaje.
+
+        Nuestro sistema se basa en los beneficios de usar todos los sentidos en el proceso de estudio, ya que hay investigaciones que muestran como esto acelera el aprendizaje. 
+
+        El estilo de enseñanza también tiene en cuenta que más del 75% de los alumnos son visuales o cenestésicos. Es por eso que incorpora todos los estilos de aprendizaje preferidos en la enseñanza, pero favorece el aprendizaje visual y cenestésico. Los estudiantes aprenden actuando diciendo las palabras en voz alta, al observar las imágenes y haciendo dramatizaciones de situaciones reales.
+        
+        El estilo de enseñanza se basa en “edutain” (educate and enterteinment) en lugar de un sistema tradicional.
+        
+        Esto se refiere a una enseñanza del idioma de una forma divertida y entretenida para que los estudiantes puedan aprender relajadamente para que se acelere el proceso de memorización.
+        
+        Tenemos en cuenta el hecho de que los estudiantes no pueden concentrarse mucho tiempo seguido, por esa razón pedimos al grupo levantarse, caminar, trabajar en equipos y conversar entre ellos. El papel del profesor cambia para convertirse en un moderador mientras los estudiantes hablan entre ellos.
+        
+        Las lecciones son interactivas, a veces las clases se hacen fuera del aula para cambiar el ambiente a los alumnos.
+        
+        Varios estudios han demostrado que la rapidez del aprendizaje está relacionada con el uso del lado derecho e izquierdo del cerebro conjuntamente. Por eso usamos música clásica y música enérgica para cambiar el estado mental y aprender más rápido. Con el uso de esta técnica los estudiantes aprenden mejor y más rápido. 
+        
+        Las clases son dinámicas y amenas, ya que nos damos cuenta que el aprendizaje mejora en un ambiente amistoso y relajado.
+        
+        Somos conscientes de que el aula forma parte del proceso de aprendizaje. Por eso sabemos que tiene que estar organizada y necesita tener un ambiente donde el alumno se sienta cómodo.
+        
+        También hay investigaciones que explican que el aprendizaje es como una montaña. Al estar en el pico de la montaña quiere decir que es el mejor estado en el que puedes esta. Nuestro objetivo es que alcances la cima de la montaña y para eso ponemos música enérgica al principio y a la mitad de cada clase para maximizar el proceso de aprendizaje. 
+        
+        Además otras investigaciones muestran como se aprende mejor en un ambiente relajado o con música clásica.
+        
+        Nos aseguramos de mejorar el proceso de aprendizaje preocupándonos del ambiente de la clase – la temperatura, la luz, sillas cómodas y la organización general.
+
+    memberships:
+      title: "Membresía"
+      memberstitle1: "Miembros Silver"
+      memberstext1: "Miembros Silver es genial si quieres disfrutar de los beneficios de aprender inglés y bonus extra como un ebook gratis sobre como aprender inglés rápido, un audiolibro que te ayudará con el listening y otros materiales gratis."
+      memberstitle2: "Miembros Gold"
+      memberstext2: "Miembros Gold es mucho mejor porque podrás disfrutar de los beneficios de un miembro silver además de tener tu c.v. corregido. También tendrás una sesión de asesoramiento cada 4 semanas, lo que te ayudará a conseguir tus metas."
+      memberstitle3: "Miembros Platinum"
+      memberstext3: "Miembros Platinum son excelentes porque además de los beneficios de los miembros Gold tendrás una session de control del progreso de aprendizaje cada 2 semanas, un certificado de Maths cashier, una tutoría para buscar trabajo y una sesión de  asesoramiento cada 2 semanas."
+      findout: "Descubre más"
+      value: "Valor"
+
+      include: "Incluyen"
+      get: "Qué optienes:"
+      levels: |
+        Nivel básico
+        Nivel preintermedio
+        Nivel intermedio
+
+      1week: "1 Semana"
+      4week: "4 Semanas"
+      8week: "8 Semanas"
+      12week: "12 Semanas"
+
+      firstfee: "Pago de Matrícula sólo Registro inicial (+ £50)"
+
+      celltitle1: "Clases en  Purple Stone Academy"
+      celltitle2: "Audiolibro 'Innovative Ways To Learn English Quickly'"
+      celltitle3: "Ebook 'Innovative Ways To Learn English Quickly'"
+      celltitle4: "Libro 'Climbing Big Ben. How To Survive, Thrive and Succeed In London'"
+      celltitle5: "Material de aprendizaje incluido"
+      celltitle6: "Infographics pack"
+      celltitle7: "Café y té gratis"
+      celltitle8: "1 hora de Asesoramiento del proceso de aprendizaje una vez cada 8 semanas"
+      celltitle9: "1 hora de Asesoramiento del proceso de aprendizaje una vez cada 4 semanas"
+      celltitle10: "Correción de CV"
+      celltitle11: "1 hora de Asesoramiento del proceso de aprendizaje una vez cada 2 semanas"
+      celltitle12: "Tutoría de aceleramiento del aprendizaje"
+      celltitle13: "Tutoría sobre busqueda de trabajo"
+      celltitle14: "Examen y certificado Maths Cashier"
+      celltitle15: "Certificado de seguridad alimenticia nivel 2 City and Guilds"
+      celltitle16: "1 hora de asesoramiento cada 2 semanas"
+
+      membdesc: "Descripción de Membresías:"
+      whatincludesilver: "Ser un miembro Silver incluye:"
+      whatincludegold: "Ser un miembro Gold incluye:"
+      whatincludeplatinum: "Ser un miembro Platinum incluye:"
+
+      membershipstitle1: "Miembros Silver"
+      membershipstitle2: "Miembros Gold"
+      membershipstitle3: "Miembros Platinum"
+
+      memberfeaturetitle1: "Clases en Purple Stone Academy"
+      memberfeaturetext1: |
+        Aprende rápido gracias a nuestras técnicas de aceleración del aprendizaje
+        Rápido progreso en las distintas áreas del inglés
+        Mejora tus perspectivas de encontrar trabajo
+        Avanza rápidamente con tu inglés
+        Aprende en un ambiente dinámico y amistoso
+        Practica redacción, lectura, conversación y listening
+        Consigue 10 horas de clase a la semana
+        Evaluaciones regulares
+        Consigue un certificado de logros al terminar un mínimo de 20 horas
+        Acceso a consejos y estrategias gratis para aprender inglés y al blog
+        Atención en diferentes idiomas
+
+      memberfeaturetitle2: "Audio libro: 'Innovative Ways To Learn English Quickly'"
+      memberfeaturetext2: |
+        Este audio libro te dará las claves para aprender rápidamente usando técnicas de aprendizaje rápido.
+        Te enseñará además técnicas de memorización, música, mapas de aprendizaje, trucos para usar todo el cerebro y otras formas de aumentar tu productividad mientras estudias.
+        Es una fantástica guía si estas atascado intentando aprender inglés y desearías encontrar una mejor y más rápida forma de mejorarlo. Este es el sistema que he seguido para aprender 4 idiomas.
+
+      memberfeaturetitle3: "Libro: 'Innovative Ways To Learn English Quickly'"
+      memberfeaturetext3: |
+        Este libro te enseñará cómo usar técnicas de aceleración del aprendizaje para aprender inglés rápidamente
+        Te enseñará a usar técnicas de memoria a través de: música, mapas de aprendizaje, utilización de todo el cerebro y otras técnicas para acelerar el aprendizaje.
+
+      memberfeaturetitle4: "Libro: 'Climbing Big Ben. How To Survive, Thrive and Succeed In London'"
+      memberfeaturetext4: "Contiene fantásticas estrategias que podrás seguir para triunfar en Londres. Escrito por Harry Sardinas, el director de nuestra compañía. Te enseña como subir los escalones del trabajo y salir del círculo vicioso. Contiene estrategias para conseguir tu primer trabajo, preparar tu mente para el éxito, conseguir tu trabajo soñado, empezar tu propio negocio y triunfar en tus negocios."
+
+      memberfeaturetitle5: "Tendrás materiales de clase gratis"
+      memberfeaturetext5: "Proporcionamos todos los materiales de clase, no necesitarás comprarte un libro para el curso."
+
+      memberfeaturetitle6_html: "Nuestro pack Learn Realquick<sup>TM</sup> Infographics"
+      memberfeaturetext6: "Te ayudará porque enseña las claves que necesitas para aprender inglés."
+
+      memberfeaturetitle7: "Café y té a tu disposición"
+      memberfeaturetext7: "Ofrecemos café y té porque nos gusta que nuestros alumnos estén a gusto y relajados."
+
+      memberfeaturetitle8_html: "1 hora asesoramiento en el programa Learn Realquick<sup>TM</sup> Learning Progress Assessment cada 8 semanas"
+      memberfeaturetext8: "Creemos que es esencial que nos digas cuáles son tus aspiraciones, fuerzas, debilidades para poder ayudarte en de la mejor manera posible. Por eso cuando te apuntas a uno de nuestros cursos, te beneficiarás de una hora de nuestro asesoramiento para el aprendizaje. Rellenarás un formulario con tus metas, debilidades y capacidades para poder guiarte de acuerdo a tus requerimientos individuales."
+
+      memberfeaturetitle9: "Correción de CV"
+      memberfeaturetext9: "Si eres como la mayoría de nuestros estudiantes, y estás buscando un trabajo tal vez necesites una corrección de tu CV."
+
+      memberfeaturetitle10: "Tutorial de aceleramiento del aprendizaje"
+      memberfeaturetext10: |
+        En este tutorial paso a paso  aprenderás como mejorar tu inglés rápidamente usando técnicas de aceleración del lenguaje.
+        Como usar técnicas de memoria, material visual, música y a usar todo el cerebro para acelerar el aprendizaje.
+
+      memberfeaturetitle11: "Tutorial de búsqueda de trabajo"
+      memberfeaturetext11: |
+        Aprenderás estrategias sobre cómo encontrar tu primer trabajo en Londres
+        Aprenderás técnicas para las entrevistas
+        Descubrirás como superar con éxito una entrevista
+        Aprenderás como conseguir tu trabajo soñado
+        Descubrirás como aplicar a trabajos on line y en persona
+
+      memberfeaturetitle12: "Examen y certificado Maths Cashier"
+      memberfeaturetext12: |
+        Consigue el certificado Maths Cashier Certificate otorgado por Purple Stone Career Advice
+        Este certificado muestra al futuro empleador que tienes las habilidades básicas necesarias para ser camarero o cajero
+
+      memberfeaturetitle13: "Certificado de seguridad alimenticia nivel 2 City and Guilds"
+      memberfeaturetext13: |
+        Consigue el certificado de Food Safety Certificate otorgado por Purple Stone Academy
+        Esto te ayudara para trabajar como kitchen porter en  catering cualquier trabajo relacionado con la comida
+
+      memberfeaturetitle14: "1 hora de asesoramiento cada 2 semanas"
+      memberfeaturetext14: |
+        Consigue ayuda y una guía para alcanzar tus metas
+        Esta sesión será de mucha ayuda si tienes ciertas metas que quieres lograr pero no estás seguro de cómo
+
+    chooseus:
+      findout: "Mas información..."
+
+      chooseustitle1: "Ventajas"
+      chooseus1_subtitle1_html: "Programa de estudio individual Learn Realquick<sup>TM</sup>"
+      chooseus1_text1_html: "Cuando te apuntas a uno de nuestros cursos, evaluamos tus fuerzas y debilidades  con el programa de estudio individual de Realquick<sup>TM</sup> así podrás conseguir tus objetivos más rápidamente. Aprenderás técnicas para acelerar el aprendizaje."
+      chooseus1_subtitle2: "Aprender inglés rápido"
+      chooseus1_text2_html: "Nuestra escuela utiliza técnicas de aceleración del aprendizaje para que nuestros alumnos aprendan rápidamente con el método Learn Realquick<sup>TM</sup>."
+      chooseus1_subtitle3: "Atención personalizada"
+      chooseus1_text3: "Aprovéchate de nuestro competitivo precio, teniendo en cuenta el nivel de atención personalizada que reciben nuestros estudiantes. Nuestros profesores siempre estarán dispuestos a contestar cualquier pregunta que puedas tener y  proporcionar el apoyo necesario para cumplir tus objetivos. Podrás conservar todo el material de aprendizaje. Café y té gratis."
+      chooseus1_subtitle4: "100% Devolución de dinero garantizado"
+      chooseus1_text4: "Estamos tan seguros de que mejorarás tu inglés con nuestras clases que, si después de tener tu Individual Study Programme, y haber participado en una de nuestras clases, no te gusta nuestro sistema, te devolveremos todo el importe."
+      chooseus1_subtitle5: "Seguimiento personal"
+      chooseus1_text5: "Te beneficiaras de sesiones individuales de seguimiento. (elige la frecuendia de estas sesiones de acuerdo a tu nivel de afiliciaón) Estás sesiones son muy importantes porque te ayudan a focalizar y motivarte en conseguir tus metas."
+
+      chooseustitle2: "Nuestra escuela"
+      chooseus2_subtitle1: "Estructura"
+      chooseus2_text1: "Nos aseguramos de que todas las clases se adapten a las necesidades de los estudiantes. Nuestros cursos están estructurados para atender los diferentes niveles, habilidades y todas las demás actividades."
+      chooseus2_subtitle2: "Apoyo"
+      chooseus2_text2: "Purple Stone Academy es una escuela de inglés orientada a ayudar a estudiantes extranjeros a mejorar su inglés rápido para que consigan un trabajo y puedan continuar con su estudio."
+      chooseus2_subtitle3: "Motivación"
+      chooseus2_text3_part1: "Además de clases de inglés proporcionamos apoyo en las redes y "
+      chooseus2_text3_part2: "alojamiento"
+      chooseus2_text3_part3: " para que así puedas cumplir tus metas."
+      chooseus2_subtitle4: "Evaluación"
+      chooseus2_text4_part1: "Nuestra escuela ofrece el método "
+      chooseus2_text4_part2_html: "<sup>TM</sup> por medio del cual serás capaz de: hablar inglés, leer con seguridad, entrenar el oido, mejorar tu pronunciación y redacción."
+      chooseus2_subtitle5: "Actividades dinámicas"
+      chooseus2_text5: "Aprende inglés con clases dinámicas y actividades sociales! Utilizamos la técnica llamada 'cambio de estado' para maximizar la experiencia de aprendizaje."
+
+      chooseustitle3: "Nuestros profesores"
+      chooseus3_subtitle1: "Totalmente entrenados"
+      chooseus3_text1_html: "Nuestros profesores están totalmente entrenados y tienen experiencia para enseñar con nuestro método Learn Realquick<sup>TM</sup>."
+      chooseus3_subtitle2: "Experiencia"
+      chooseus3_text2: "Nuestros profesores tienen experiencia en una gran variedad de niveles y desarrollarán un sistema de aprendizaje personalizado."
+      chooseus3_subtitle3: "Acogedor"
+      chooseus3_text3: "Nuestros profesores son amistosos y están felices de ayudarte en lo que sea necesario para que se cumplan tus objetivos."
+      chooseus3_subtitle4: "Participación"
+      chooseus3_text4: "Nuestro objetivo es que estés equipado con las habilidades para entender en un nivel más intuitivo. Nosotros “edutain”, mezcla de education + entertaining, ya que pretendemos enseñar mientras se participa y se entretiene."
+      chooseus3_subtitle5: "Actividades dinámicas"
+      chooseus3_text5: "'Como profesora, constantemente pongo retos a cualquier estudiante con el que me encuentre. En general mis habilidades como profesora han mejorado gracias a los diferentes estudiantes, sus necesidades y orígenes. Capacidades únicas que se deben utilizar dependiendo de cada estudiante. Purple Stone Academy ofrece un maravilloso ambiente para avanzar en el aprendizaje del inglés, porque proporciona un acercamiento al idioma adaptado a cada estudiante. Puedes esperar un alto nivel de consecución de objetivo porque el tamaño de las clases es muy pequeño, de media 4 o 6 estudiantes (con un máximo de 12) ¡lo que significa que la atención del profesor será mucho más individualizada!' (Lily, teacher)"
+
+      chooseustitle4: "Nuestros estudiantes"
+      chooseus4_subtitle1: "Multinacional"
+      chooseus4_text1: "Nuestros estudiantes vienen de todas partes del mundo. La mayoría de ellos de Europeos, especialmente España, Italia, Francia, Rumanía, Polonia o Portugal."
+      chooseus4_note1: "Maki vino a Purple Stone Academy buscando mejorar su inglés. Está avanzando rápidamente gracias al sistema adaptado a sus necesidades diseñado por el profesor."
+      chooseus4_subtitle2: "Jóvenes"
+      chooseus4_text2: "Nuestros estudiantes suele ser gente joven que contrata cursos cortos para mejorar su inglés rápidamente antes de encontrar un trabajo o continuar con su educación."
+      chooseus4_note2: "Marcony ha estudiado con nosotros tres meses. No era capaz de hablar inglés cuando empezó el curso y ahora ha vuelto a su país con un nivel mucho más alto."
+      chooseus4_subtitle3: "Amigables"
+      chooseus4_text3: "Todos los estudiantes están encantados de hacer nuevas amistades y participar en nuestras actividades sociales."
+      chooseus4_note3: "Beata ha estudiado con nosotros alrededor de un mes. Después de haber acudido a otras escuelas se queda con Purple Stone Academy por el apoyo que recibe del equipo de la escuela."
+
+
 
 
     resources:
@@ -92,9 +391,20 @@ es:
 
     stories:
       title: "Testimonios"
-      storycomments1: "Purple Stone Career Advice me ayudo a mejorar mi inglés y a encontrar un trabajo. ¡Lo encontre sólo dos semanas después de enir a Inglaterra! Gracias a Lily, la profesora. Purple Stone Career Advice da muchas oportunidades para mejorar en Londres!"
-      storyreview1: "Julien Collas estudió inglés en Purple Stone Academy. También fue orientado por nosotros para encontrar un trabajo y en dos semanas estaba trabajando de camarero."
-      storycomments2: "Hola, soy Marinela. Empecé a estudiar inglés en Purple Stone Academy en agosto y en unas 6 semanas he conseguido un trabajo hablando mejor inglés y también gracias a la orientación profesional y las técnicas de entrevistas con Lily en Purple Stone Career Advice. ¡Recomiendo la academia y la orientación profesional!"
-      storyreview2: "Marinela estudió inglés en Purple Stone Academy durante seis semanas. Como resultado de las lecciones y la orientación profesional ha sido capaz de encontrar un trabajo de camarera."
-      storycomments3: "Hola mi nombre es Fernando. Vine a  Purple Stone Academy a estudiar inglés hace unos meses, quería encontrar un trabajo mejor en España usando inglés. Me sorprendió el nivel de dedicación, apoyo y motivación de los profesores. ¡Es una escuela con clases reducidas, por eso aprendí inglés tan rápido!"
-      storyreview3: "Teo Vega ha estuidiado en Purple Stone Academy unas pocas semanas. Su nivel de inglés era Pre-intermedio, él quiere mejorar su inglés para conseguir un trabajo."
+      storycomments1: "Me gusta mucho la escuela. El personal es muy agradable. Me sentí muy cómodo estudiando en Londres, especialmente porque me facilitaron todo lo necesario para aprender"
+      storyreview1: "Marcony ha estudiado con nosotros tres meses. Era incapaz de hablar inglés cuando empezó el curso y ahora vuelve a su país habiendo mejorado su nivel."
+      storycomments2: "Hola, soy Lisa. Fui a calses en Purple Stone Academy el primer mes que llegué a Londres. Es una buena academia donde los profesores son amistosos y siempre ayudan a los alumnos. Aprendí mucho en estas clases, ¡definitivamente recomiendo esta academia. Disfruté viniendo aquí porque no hay mucha gente en clase y mejoré rápidamente. Uno de los profesores me ayudó a reescribir mi cv y ahora he encontrado un mejor trabajo"
+      storyreview2: "Lisa has studied English with Purple Stone Academy for four weeks. She could not speak English well, and she was keen to get a job quickly so that she can progress in her work."
+      storycomments3: "Hola, mi nombre es Fernando. Vine a Purple Stone Academy para estudiar inglés hace unos meses porque quería encontrar un trabajo en España teniendo un buen inglés. Me sorprendió el nivel de apoyo, motivación y ayuda que ofrecían los profesores. Es una escuela pequeña donde mejoré rápidamente mi nivel de inglés!"
+      storyreview3: "Fernando has studied with Purple Stone Academy for two months. His English was at an intermediate level, yet he wanted to be able to improve his English so that he can get a better job."
+
+      storycomments4: "Me encanta estudiar aquí. Empecé hace tres meses, mi inglés era muy malo. Me encantó que me dieran un programa de aprendizaje con las cosas en las que me tenía que centrar. Solía encontrar el acento de las personas inglesas muy difícil pero ahora he mejorado gracias a la dedicación de los profesores en Purple Stone Academy. ¡Lo que más me gustaba es que además de aprender pasaba un rato genial!"
+      storycomments5: "Las lecciones son geniales y divertidas. Lo mejor es que recuerdo todo lo que aprendí gracias a los métodos que se utilizan"
+      storycomments6: "Creo que el curso y los profesores son geniales. Además hay muy pocos alumnos en clase por lo que aprendes mucho más que en otros sitios"
+
+      storycomments7: "Empecé a estudiar hace un mes y mejorado mucho. Mi vocabulario es mucho mejor. Estoy muy contenta, ¡ahora puedo encontrar un trabajo mejor!"
+      storycomments8: "Me encanta la profesora. Es divertida y se ríe continuamente en clase, recomiendo Purple Stone Academy a todo el mundo"
+      storycomments9: "Me encantan los cursos aquí porque son muy buenos y baratos. Vine hace dos meses y he encontrado un trabajo en un restaurante gracias a que mejoré mi inglés en Purple Stone Academy"
+
+
+

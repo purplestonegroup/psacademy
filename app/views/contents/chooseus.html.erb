@@ -1,5 +1,12 @@
 <section class="chooseus">
 
+	<div class="ten columns offset-by-one">
+		<%= image_tag "chooseus.jpg", class: "ten columns" %>
+	</div>
+	<div class="ten columns offset-by-one">
+		<br />
+		<hr class="light">
+	</div>
 	<div class="row">
 
 		<div class="four columns">
@@ -8,33 +15,36 @@
 			<div class="row">
 				<h3><%= t('.chooseus1_subtitle1_html') %></h3>
 				<p><%= t('.chooseus1_text1_html') %></p>
-				<%= active_link_to "Find out more", memberships_path, class: "button" %>
+				<%= active_link_to t('.findout'), memberships_path, class: "button" %>
 			</div>
 			<div class="row">
 				<h3><%= t('.chooseus1_subtitle2') %></h3>
 				<p><%= t('.chooseus1_text2_html') %></p>
-				<%= active_link_to "Find out more", method_path, class: "button" %>
+				<%= active_link_to t('.findout'), method_path, class: "button" %>
 			</div>
 			<div class="row">
 				<h3><%= t('.chooseus1_subtitle3') %></h3>
 				<p><%= t('.chooseus1_text3') %></p>
-				<%= active_link_to "Find out more", memberships_path, class: "button" %>
+				<%= active_link_to t('.findout'), memberships_path, class: "button" %>
 			</div>
 			<div class="row">
 				<h3><%= t('.chooseus1_subtitle4') %></h3>
 				<p><%= t('.chooseus1_text4') %></p>
-				<%= active_link_to "Find out more", memberships_path, class: "button" %>
+				<%= active_link_to t('.findout'), memberships_path, class: "button" %>
 			</div>
 			<div class="row">
 				<h3><%= t('.chooseus1_subtitle5') %></h3>
-				<p><%= t('.chooseus1_text5_html') %></p>
-				<%= active_link_to "Find out more", memberships_path, class: "button" %>
+				<p><%= t('.chooseus1_text5') %></p>
+				<%= active_link_to t('.findout'), memberships_path, class: "button" %>
 			</div>
 		</div>
 
 		<div class="four columns">
 			<h2><i class="fa fa-pencil"></i> <%= t('.chooseustitle2') %></h2>
 			<hr class="light">
+			<br />
+			<%= image_tag "boy_reading.jpg" %>
+			<br /><br />
 			<div class="row">
 				<h3><%= t('.chooseus2_subtitle1') %></h3>
 				<p><%= t('.chooseus2_text1') %></p>
@@ -45,16 +55,19 @@
 			</div>
 			<div class="row">
 				<h3><%= t('.chooseus2_subtitle3') %></h3>
-				<p><%= t('.chooseus2_text3') %></p>
+				<p><%= t('.chooseus2_text3_part1') %><%= active_link_to t('.chooseus2_text3_part2'), resources_path(:anchor => "acommodation"), class: "link" %><%= t('.chooseus2_text3_part3') %></p>
 			</div>
 			<div class="row">
 				<h3><%= t('.chooseus2_subtitle4') %></h3>
-				<p><%= t('.chooseus2_text4') %></p>
+				<p><%= t('.chooseus2_text4_part1') %><%= active_link_to "Learn Realquick Method", method_path, class: "link" %><%= t('.chooseus2_text4_part2_html') %></p>
 			</div>
 			<div class="row">
 				<h3><%= t('.chooseus2_subtitle5') %></h3>
+				<br />
+				<%= image_tag "students_activity.jpg" %>
+				<br /><br />
 				<p><%= t('.chooseus2_text5') %></p>
-				<%= active_link_to "Find out more", method_path, class: "button" %>
+				<%= active_link_to t('.findout'), method_path, class: "button" %>
 			</div>
 		</div>
 
@@ -79,7 +92,11 @@
 			</div>
 			<div class="row">
 				<h3><%= t('.chooseus3_subtitle5') %></h3>
+				<br />
+				<%= image_tag "lily.jpg" %>
+				<br /><br />
 				<p><%= t('.chooseus3_text5') %></p>
+				<note>Lily, teacher</note>
 			</div>
 		</div>
 
