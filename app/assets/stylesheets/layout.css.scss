@@ -53,6 +53,9 @@ h2 a {
   font-weight: 700;
   line-height: 1;
 }
+h2.slogan {
+  font-size: 1.8em;
+}
 
 h3 {
   font-size: 1.3em;
@@ -80,7 +83,7 @@ note {
   color: #333333;
 }
 .fa-times {
-  color: red;
+  color: #FFCCFF;
 }
 sup {
   font-size: 0.50em;
@@ -427,6 +430,37 @@ margin-top: -20px;
 }
 .memberships h4 {
   margin: 20px;
+}
+
+.boxes {
+  -moz-border-radius: 8px;
+  -webkit-border-radius: 8px;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 20px 0 20px 0;
+
+  .boxes_interior {
+    padding: 10px;
+    background-color: #fff;
+    -moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+    border-radius: 8px;
+  }
+
+  h2 {
+    margin-top: 5px;
+    color: #fff;
+  }
+}
+
+.boxes_silver {
+  background-color: #C0C0C0;
+}
+.boxes_gold {
+  background-color: #daa520;
+}
+.boxes_platinum {
+  background-color: #8fbc8f;
 }
 
 .course, .member {
