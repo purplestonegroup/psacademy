@@ -16,4 +16,11 @@ class ContentsController < ApplicationController
 
   def resources
   end
+
+  def terms
+  end
+
+  def privacy
+  end
+
 end
