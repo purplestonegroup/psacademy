@@ -20,7 +20,9 @@ ActiveAdmin.register Post do
     column :category
     column :title
     column :created_at
-    column :body
+    column :body do |post|
+        truncate(post.body, omision: "...", length: 100)
+    end
     column :image_file_name
     actions
   end
