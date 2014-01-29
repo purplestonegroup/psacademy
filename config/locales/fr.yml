@@ -47,6 +47,18 @@ fr:
     feedbacktext: "Si vous voulez nous donner vos impressions sur ce que nous faisons, suggérer comment nous pourrions améliorer les choses ou simplement envie d'un chat, envoyez-nous un message ou appelez-nous. Lignes téléphoniques ouvertes du Lundi au Vendredi de 8H à 20H."
     address: "Adresse du bureau:"
     opening: "Horaires d’ouvertures:"
+   aweberform:
+    title_html: "S'il vous plaît, n'hésitez pas à nous envoyer vos demandes de renseignements. Nous allons vous répondre dès que possible."
+    subtitle: "Ci-dessous vous pouvez trouver notre emplacement sur ​​Google Maps."
+    contactus: "Contactez-nous"
+    bookcourse: "Réservez un cours"
+    contactustext_html: "Si vous avez des questions ou si vous souhaitez en savoir plus sur comment nous pouvons vous aider à améliorer votre anglais, n’hésitez pas à nous contacter. <br />Merci d’indiquer vos préférences et vos besoins spécifiques de formation, et un membre dévoué de notre équipe reviendra vers vous dès que possible.<br />Vous pouvez nous parler en anglais, roumain, français, espagnol et italien."
+    bookcoursetransfer: "Réservez, s’il vous plait, un cours par Paypal ou en faisant un virement bancaire à:"
+    customer: "Service Clients"
+    feedbacktitle: "A Purple Stone Academy, nous aimons toujours avoir des nouvelles de nos étudiants"
+    feedbacktext: "Si vous voulez nous donner vos impressions sur ce que nous faisons, suggérer comment nous pourrions améliorer les choses ou simplement envie d'un chat, envoyez-nous un message ou appelez-nous. Lignes téléphoniques ouvertes du Lundi au Vendredi de 8H à 20H."
+    address: "Adresse du bureau:"
+    opening: "Horaires d’ouvertures:"
 
 
   contents:
@@ -390,18 +402,18 @@ fr:
       internshipsli6: "Pendant la période de stage en entreprise, les stagiaires se voient confiés une variété de tâches différentes : allant du travail de projet stimulant à des tâches administratives de routine telles que la publication de notre école ou l'hébergement sur différents sites Web, la traduction de documents, la distribution de tracts, création de prospectus, écriture et recherche de contenu pour notre magazine."
       internshipsli7: "En tant que «volontaire», les stagiaires ne seront pas payés. Par-dessus tout, les candidats doivent se rappeler que pendant qu'ils apprennent les compétences linguistiques et professionnelles, nous attendons également d’eux qu’ils travaillent dur et contribuent avec toute la puissance d’un employé."
 
-      englishlessons: "Leçons d’Anglais"
-      structure: "Structure"
-      structuretext: "Nous nous assurons que tous nos cours sont adaptés à vos besoins uniques. Nos cours d'anglais sont structurés pour répondre à votre niveau, votre  capacité et vos objectifs en général."
-      support: "Soutien"
-      supporttext: "Purple Stone Academy est une école d’Anglais visant à aider les étudiants étrangers à améliorer leur anglais rapidement afin qu'ils puissent trouver du travail et poursuivre leurs études."
-      encouragement: "Encouragement"
-      encouragementtext: "Nous offrons des cours d'anglais, des réseaux de soutien et d'hébergement afin que vous puissiez répondre à vos besoins éducatifs."
-      evaluation: "Evaluation"
-      evaluationtext: "Notre école d'anglais vous offre un système fantastique pour apprendre l'anglais qui vous permettra de: parler anglais, lire en toute confiance, améliorer votre prononciation, votre écoute et votre écrit."
-      dynamicact: "Activités Dynamiques"
-      dynamicacttext: "Apprendre l'anglais avec des classes dynamiques et des activités sociales!"
-      findmore: "Pour en savoir plus, visitez www.purplestoneacademy.com"
+      careeradvice: "Conseils de carrière et emploi"
+      adviceandsupport: "Conseils et support"
+      adviceandsupporttext: "Purple Stone Academy vous offre son support et ses conseils de carrière dans la recherche de votre premier emploi, la mise en place d'un compte bancaire, obtenir un NINO (numéro d'assurance nationale), etc."
+      cvwriting: "Rédaction de CV"
+      cvwritingtext: "Nous pouvons vous aider à écrire votre CV aux normes britanniques."
+      applicationstojobs: "Demande d’emploi"
+      applicationstojobstext: "Nous pouvons postuler pour vous pour certains emplois dans notre domaine d'expertise : hôtel, restauration, nounou, fille au pair et nettoyage."
+      training: "Formation"
+      trainingtext: "Nous pouvons offrir de la formation dans certains cours qui se rapportent à l’hôtellerie et la restauration. Nous pouvons également vous diriger dans la bonne direction pour les emplois de nounou, et de fille au pair."
+      consultation: "Nous pouvons offrir une consultation de 30 minutes pour la rédaction du CV et des conseils CV si vous réservez au moins 6 semaines de cours. La réservation est obligatoire."
+      getintouch: "S'il vous plaît, entrer en contact avec nous pour plus de détails à "
+      getintouch2: "Ou visiter "
 
       accomodation: "Logement"
       accomodationtitle1: "Près de la station de métro et à moins de 15-20 minutes de l’école"
@@ -415,8 +427,8 @@ fr:
       accomodationtitle5: "Application d’un séjour minimum"
       accomodationtext5: "Nous avons habituellement un séjour minimum de trois mois, avec un préavis de 6 semaines. Merci de nous contacter si vous avez besoin d'une chambre pour une période plus courte."
 
-      pleasecontact: "Merci de contacter Maria Diz Hernandez dans le cas où vous souhaiteriez plus d'informations sur nos chambres disponibles: maria@purplestonerooms.com"
-      alternatively: "Alternativement, merci de contacter Lily Patrascu: lily@purplestonerooms.com"
+      pleasecontact: "Merci de contacter Maria Diz Hernandez dans le cas où vous souhaiteriez plus d'informations sur nos chambres disponibles: "
+      alternatively: "Alternativement, merci de contacter Lily Patrascu: "
 
     stories:
       title: "Success Stories"

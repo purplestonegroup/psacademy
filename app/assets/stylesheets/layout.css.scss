@@ -17,9 +17,18 @@ body {
 }
 
 p {
-  font-size: 1.1em;
+  font-size: 1.1em;  
   padding: 10px 0 10px 0;
 }
+
+strong {
+  font-weight: 700;
+}
+
+em {
+  font-style: italic;
+}
+
 
 a {
   color: $primaryColour;

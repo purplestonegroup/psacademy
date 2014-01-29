@@ -1,6 +1,11 @@
 <div class="post_menu">
-
-	<h3>HOT TOPICS</h3>
+	
+	<div class="suscribe_aweber">
+		<h3>Suscribe to our Newsletter</h3>
+		<script type="text/javascript" src="http://forms.aweber.com/form/44/1399631844.js"></script>
+	</div>
+	
+	<h3>Hot Topics</h3>
 	
 	<ul>
 		<% @category.posts.order('created_at desc').each do |post| %>

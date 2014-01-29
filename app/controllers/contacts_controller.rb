@@ -1,5 +1,8 @@
 class ContactsController < ApplicationController
 
+  def aweberform
+  end
+
   def new
   	@contact = Contact.new
   end

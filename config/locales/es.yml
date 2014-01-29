@@ -48,6 +48,19 @@ es:
     address: "Dirección de la oficina:"
     opening: "Horario:"
 
+   aweberform:
+    title_html: "Por favor, no dude en enviarnos sus consultas. <br /> Le contestaremos en la mayor brevedad posible."
+    subtitle: "A continuación puede encontrar nuestra ubicación en Google Maps."
+    contactus: "Contacto"
+    bookcourse: "Reserva un curso"
+    contactustext_html: "Por favor ponte en contacto para preguntar cualquier duda o si quieres saber como podemos ayudarte a mejorar tu inglés.<br />Por favor dinos tus necesidades y un miembro de nuestro equipo se pondrá en contacto contigo tan pronto como sea posible.<br />Puedes hablarnos en inglés, rumano, francés, español e italiano."
+    bookcoursetransfer: "Reserva tu curso mediante Paypal o haciendo una transferencia a la cuenta:"
+    customer: "Atención al cliente"
+    feedbacktitle: "En Purple Stone Academy, nos encanta oir las opinions de nuestros alumnos"
+    feedbacktext: "Si quieres dejarnos tu comentarios sobre lo que estamos haciendo, sugerirnos cómo hacerlo mejor o simplemente decirnos cualquier cosa envía un mensaje o llámanos de lunes a viernes 8am – 8pm."
+    address: "Dirección de la oficina:"
+    opening: "Horario:"
+
 
   contents:
 
@@ -394,18 +407,18 @@ es:
       internshipsli6: "Durante el periodo de prácticas los becarios deberán realizar diversas tareas - desde exigentes proyectos, trabajo administrativo como publicar publicidad de la academia o habitaciones en diferentes webs, traducir documentos, crear flyers, escribir o buscar contenidos para nuestra revista."
       internshipsli7: "Como 'voluntario', los internos no serán remunerados. Pero por encima de todo, los candidatos deben recordar que están desarrollando habilidades lingüísticas y profesionales y serán tratados como cualquier otro empleado."
 
-      englishlessons: "Clases de Inglés"
-      structure: "Estructura"
-      structuretext: "Nos aseguramos que las clases se adapten a tus necesidades. Todos nuestros cursos de inglés están preparadas para tu nivel, habilidades y objetivos generales."
-      support: "Apoyo"
-      supporttext: "Purple Stone Academy es una escuela de inglés orientada a ayudar a estudiantes extranjeros a mejorar su inglés así podrán encontrar un trabajo o continuar sus estudios."
-      encouragement: "Motivación"
-      encouragementtext: "Además de las lecciones proporcionamos, redes de apoyo y alojamiento para que puedas cubrir todas tus necesidades."
-      evaluation: "Evaluación"
-      evaluationtext: "Nuestra escuela de  inglés ofrece un sistema fantastico de aprendizaje del idioma que hará que seas capaz de hablar inglés, leer con seguridad, mejorar tu pronunciación, tu redacción y tu listening."
-      dynamicact: "Actividades Dinámicas"
-      dynamicacttext: "Aprende inglés con clases dinámicas llenas de actividades."
-      findmore: "Descubre más, visita www.purplestoneacademy.com"
+      careeradvice: "Trabajo y Career Advice"
+      adviceandsupport: "Consejo y apoyo"
+      adviceandsupporttext: "Purple Stone Academy te ofrece su apoyo y consejo para que encuentres tu primer trabajo, abrir una cuenta bancaria, conseguir el NIN (national insurance number), etc."
+      cvwriting: "Escritura de CV"
+      cvwritingtext: "Te podemos ayudar a reescribir tu CV acorde al modelo en UK."
+      applicationstojobs: "Solicitud de trabajos"
+      applicationstojobstext: "Podemos solicitar trabajo de acuerdo a tu área elegida o tu experiencia, por ejemplo en puestos en hoteles, catering, nanny, au pair o limpieza."
+      training: "Formación"
+      trainingtext: "Ofrecemos formación y cursos relacionados con puestos en hoteles o catering. O podemos orientarte para conseguir trabajos de nanny o au pair."
+      consultation: "We can offer a 30 minute consultation of CV writing and advice if you book minimum 6 weeks of courses. Booking is required."
+      getintouch: "Ponte en contacto con nosotros para más detalles en "
+      getintouch2: "O visita "
 
       accomodation: "Alojamiento"
       accomodationtitle1: "Cerca de la estación de metro a 15-20 minutos de la escuela"
@@ -419,8 +432,8 @@ es:
       accomodationtitle5: "Estancia minima requerida"
       accomodationtext5: "Habitualmente pedimos un mínimo de 3 meses más 6 semanas de aviso previo a la salida. Sin embargo ponte en contacto aun que necesites una habitación por un periodo más corto."
 
-      pleasecontact: "Por favor contacta con María Diz Hernández en caso de estar interesado en alguna de nuestras habitaciones: maria@purplestonerooms.com"
-      alternatively: "Como alternativa, por favor contacta con: Lily Patrascu: lily@purplestonerooms.com"
+      pleasecontact: "Por favor contacta con María Diz Hernández en caso de estar interesado en alguna de nuestras habitaciones: "
+      alternatively: "Como alternativa, por favor contacta con: Lily Patrascu: "
 
     stories:
       title: "Testimonios"
