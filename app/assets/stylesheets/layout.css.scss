@@ -460,6 +460,7 @@ margin-top: -20px;
   border-radius: 8px;
   padding: 10px;
   margin: 20px 0 20px 0;
+  text-align: center;
 
   .boxes_interior {
     padding: 10px;
@@ -609,27 +610,19 @@ h2.stargold {
 h2.starplatinum {
   color: #8fbc8f;
 }
-.button.silver, .button.gold, .button.platinum {
+.membprice.silver, .membprice.gold, .membprice.platinum {
+  font-weight: 700;
   color: black;
   text-shadow: 0 1px rgba(255, 255, 255, .75);
 }
-.button.silver {
+.membprice.silver {
   background-color: #c0c0c0;
 }
-.button.silver:hover {
-  background-color: red;
-}
-.button.gold {
+.membprice.gold {
   background-color: #daa520;
 }
-.button.gold:hover {
-  background-color: red;
-}
-.button.platinum {
+.membprice.platinum {
   background-color: #8fbc8f;
-}
-.button.platinum:hover {
-  background-color: red;
 }
 
 /* #Table of the packs content
