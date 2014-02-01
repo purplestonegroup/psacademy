@@ -5,5 +5,9 @@ LANGUAGES = [
 	['English', 'en'],
 	["Espa&ntilde;ol".html_safe, 'es'],
 	["Fran&ccedil;ais".html_safe, 'fr'],
+<<<<<<< HEAD
 	["Fran&ccedil;ais".html_safe, 'rm']
+=======
+	["Rom&acirc;n&#x103;".html_safe, 'rm']
+>>>>>>> slideOK
 ]

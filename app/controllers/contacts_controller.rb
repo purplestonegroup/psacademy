@@ -2,6 +2,10 @@ class ContactsController < ApplicationController
 
   def aweberform
   end
+<<<<<<< HEAD
+=======
+  
+>>>>>>> slideOK
 
   def new
   	@contact = Contact.new

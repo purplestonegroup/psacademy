@@ -4,11 +4,19 @@ rm:
    application:
     slogan_html: "Learn English<br />Fast"
     home: "HOME"
+<<<<<<< HEAD
     courses: "CURSURI"
     method: "Metode"
     memberships: "Abonamente"
     chooseus: "DE CE SA NE ALEGETI PE NOI?"
     stories: "Povesti de Succes"
+=======
+    courses: "COURSES"
+    method: "METHOD"
+    memberships: "MEMBERSHIPS"
+    chooseus: "WHY CHOOSE US?"
+    stories: "SUCCESS STORIES"
+>>>>>>> slideOK
     resources: "RESOURCES"
     contact: "CONTACT"
     aboutustitle: "About Us"
