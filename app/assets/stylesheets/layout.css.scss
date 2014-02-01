@@ -610,19 +610,28 @@ h2.stargold {
 h2.starplatinum {
   color: #8fbc8f;
 }
-.membprice.silver, .membprice.gold, .membprice.platinum {
+.membprice.silver, .membprice.gold, .membprice.platinum, .button.silver, .button.gold, .button.platinum {
   font-weight: 700;
   color: black;
   text-shadow: 0 1px rgba(255, 255, 255, .75);
 }
-.membprice.silver {
+.membprice.silver, .button.silver {
   background-color: #c0c0c0;
 }
-.membprice.gold {
+.button.silver:hover {
+  background-color: red;
+}
+.membprice.gold, .button.gold {
   background-color: #daa520;
 }
-.membprice.platinum {
+.button.gold:hover {
+  background-color: red;
+}
+.membprice.platinum, .button.platinum {
   background-color: #8fbc8f;
+}
+.button.platinum:hover {
+  background-color: red;
 }
 
 /* #Table of the packs content
