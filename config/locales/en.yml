@@ -35,7 +35,21 @@ en:
     subject: "Subject"
     comments: "Comments"
     send: "SEND"
+    
    new:
+    title_html: "Please, feel free to send us your enquires.<br />We'll reply to you as soon as possible."
+    subtitle: "Below you can find our location in Google Maps."
+    contactus: "Contact Us"
+    bookcourse: "Book a Course"
+    contactustext_html: "Please get in touch if you have any questions or you wish to find out more about how we can help you improve your English.<br />Please state your preferences and your specific training needs, and a dedicated member of our team will get back to you as soon as possible.<br />You may speak to us in English, Romanian, French, Spanish and Italian."
+    bookcoursetransfer: "Please book a course by Paypal or by making a bank transfer to:"
+    customer: "Customer Service"
+    feedbacktitle: "At Purple Stone Academy, we always love hearing from our Students"
+    feedbacktext: "Whether you want to give us feedback on what we're doing, suggest how we can make things better or simply fancy a chat, send us a message or give us a call. Telephone lines open Mon-Fri 8am to 8pm."
+    address: "Office Address:"
+    opening: "Opening hours:"
+
+   aweberform:
     title_html: "Please, feel free to send us your enquires.<br />We'll reply to you as soon as possible."
     subtitle: "Below you can find our location in Google Maps."
     contactus: "Contact Us"
@@ -391,18 +405,18 @@ en:
       internshipsli6: "During the period of work experience, interns may be given a variety of tasks of different kinds - ranging from challenging project work to routine administrative tasks such as publishing our school or accommodation on different websites, translating documents, distributing leaflets, creating flyers, writing and researching content for our magazine."
       internshipsli7: "As a 'volunteer', interns will not be paid. Above all, candidates should remember that while they are learning linguistic and professional skills, they will be expected to contribute as an employee might."
 
-      englishlessons: "English Lessons"
-      structure: "Structure"
-      structuretext: "We ensure that all our classes are tailored to your unique needs. All our English courses are structured to cater for your level, ability and overall objectives."
-      support: "Support"
-      supporttext: "Purple Stone Academy is an English language school geared towards helping foreign students improve their English so that they can get work and continue their study."
-      encouragement: "Encouragement"
-      encouragementtext: "We provide you with English language lessons, support networks and accommodation so that you can meet your educational needs."
-      evaluation: "Evaluation"
-      evaluationtext: "Our English School offers you a fantastic System for Learning English that will enable you to: Speak English, Read with confidence, Improve your Pronunciation, Listening and Writing."
-      dynamicact: "Dynamic Activities"
-      dynamicacttext: "Learn English with dynamic classroom and social activities!"
-      findmore: "To find out more, please visit www.purplestoneacademy.com"
+      careeradvice: "Jobs and Career Advice"
+      adviceandsupport: "Advice and Support"
+      adviceandsupporttext: "Purple Stone Academy offers you support and careers advice in finding your first job, setting up a bank account, getting a NINO (national insurance number), etc."
+      cvwriting: "CV writing"
+      cvwritingtext: "We can help you by writing your CV to the UK standards."
+      applicationstojobs: "Applications to jobs"
+      applicationstojobstext: "We can apply for you for certain jobs in our area of expertise, such as in the hotel, catering, nanny, au pair and cleaning roles."
+      training: "Training"
+      trainingtext: "We can offer training in certain courses that relate to the hotel and catering industries. We can also point you in the right direction for nanny, and au pair roles."
+      consultation: "We can offer a 30 minute consultation of CV writing and advice if you book minimum 6 weeks of courses. Booking is required."
+      getintouch: "Please get in touch with us for further details at "
+      getintouch2: "Or visit "
 
       accomodation: "Accomodation"
       accomodationtitle1: "Close to the tube Station and within 15-20 minutes to the school"
@@ -416,8 +430,8 @@ en:
       accomodationtitle5: "Minimum stay applies"
       accomodationtext5: "We usually have a minimum stay of three months plus 6 weeks notice. Please get in touch if you need a room for a shorter period."
 
-      pleasecontact: "Please contact Maria Diz Hernandez in case you would like more information about our available rooms: maria@purplestonerooms.com"
-      alternatively: "Alternatively, please contact Lily Patrascu in: lily@purplestonerooms.com"
+      pleasecontact: "Please contact Maria Diz Hernandez in case you would like more information about our available rooms: "
+      alternatively: "Alternatively, please contact Lily Patrascu in: "
 
     stories:
       title: "Success Stories"
