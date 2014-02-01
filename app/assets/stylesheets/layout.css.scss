@@ -21,6 +21,15 @@ p {
   padding: 10px 0 10px 0;
 }
 
+strong {
+  font-weight: 700;
+}
+
+em {
+  font-style: italic;
+}
+
+
 a {
   color: $primaryColour;
   text-decoration: none;
