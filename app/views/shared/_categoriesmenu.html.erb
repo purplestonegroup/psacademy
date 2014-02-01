@@ -1,11 +1,16 @@
 <div class="post_menu">
-
-	<h3>CATEGORIES</h3>
+	
+	<div class="suscribe_aweber">
+		<h3>Suscribe to our Newsletter</h3>
+		<script type="text/javascript" src="http://forms.aweber.com/form/44/1399631844.js"></script>
+	</div>
+	
+	<h3>Categories</h3>
 	
 	<ul>
 		<% @categories.each do |category| %>
 			<li><%= link_to truncate(category.name, :length => 40), category_path(category) %></li>
 		<% end %>
 	</ul>
-	
+
 </div>
