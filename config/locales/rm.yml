@@ -3,25 +3,25 @@ rm:
   layouts:
    application:
     slogan_html: "Learn English<br />Fast"
-    home: "HOME"
-    courses: "COURSES"
-    method: "METHOD"
-    memberships: "MEMBERSHIPS"
-    chooseus: "WHY CHOOSE US?"
-    stories: "SUCCESS STORIES"
-    resources: "RESOURCES"
+    home: "ACASĂ"
+    courses: "CURSURI"
+    method: "METODE"
+    memberships: "ABONAMENTE"
+    chooseus: "DE CE NE ALEGEȚI PE NOI?"
+    stories: "POVESTI DE SUCCES"
+    resources: "RESURSE"
     contact: "CONTACT"
-    aboutustitle: "About Us"
-    whatis: "What is Purple Stone Academy?"
-    aboutustext: "Purple Stone Group is a company specialized in real estate, education, marketing and multimedia. The business group, through it's independent limited companies offers a lot of products and services that reflect the high satisfaction of the costumer."
-    affiliatetitle: "Join Our Affiliate Programme Now!"
-    affiliatetext: "By sending an email to us you can Join to our Free Affiliate Programme and earn generous commissions from sales generated from referrals!"
-    affiliatebutton: "JOIN US"
-    ourcompanies: "Our Companies"
+    aboutustitle: "Despre Noi"
+    whatis: "Ce este Purple Stone Academy?"
+    aboutustext: "Purple Stone Academy este o companie specializată în educație engleză. Ne asigură că toate cursurile noastre sunt adaptate nevoilor dvs. unice. Toate cursurile noastre de limba engleză sunt structurate pentru a satisface nivelul de dumneavoastră, capacitatea și obiective generale."
+    affiliatetitle: "Alăturați-vă în Programul nostru de Afiliere Acum!"
+    affiliatetext: "Prin trimiterea unui e-mail la noi, vă puteți alătura gratuit la programul nostru de afiliere și de a câștiga comisioane generoase din vânzările generate de recomandari!"
+    affiliatebutton: "ALĂTURAȚI-VĂ NOUĂ"
+    ourcompanies: "Companiile noastre"
 
   shared:
     aweberform:
-      awebertitle: "Claim your 100% FREE book"
+      awebertitle: "Susțin 100% cartea GRATUIT"
       awebersubtitle: "Innovative Ways To Learn English Quickly"    
 
   posts:
@@ -29,132 +29,139 @@ rm:
 
   contacts:
    form:
-    name: "Name"
-    email: "E-mail"
-    phone: "Phone"
-    subject: "Subject"
-    comments: "Comments"
-    send: "SEND"
+    name: "Nume"
+    email: "Poştă electronică"
+    phone: "Telefon"
+    subject: "Subiect"
+    comments: "Comentarii"
+    send: "TRIMITE"
     
    new:
-    title_html: "Please, feel free to send us your enquires.<br />We'll reply to you as soon as possible."
-    subtitle: "Below you can find our location in Google Maps."
-    contactus: "Contact Us"
-    bookcourse: "Book a Course"
-    contactustext_html: "Please get in touch if you have any questions or you wish to find out more about how we can help you improve your English.<br />Please state your preferences and your specific training needs, and a dedicated member of our team will get back to you as soon as possible.<br />You may speak to us in English, Romanian, French, Spanish and Italian."
-    bookcoursetransfer: "Please book a course by Paypal or by making a bank transfer to:"
-    customer: "Customer Service"
-    feedbacktitle: "At Purple Stone Academy, we always love hearing from our Students"
-    feedbacktext: "Whether you want to give us feedback on what we're doing, suggest how we can make things better or simply fancy a chat, send us a message or give us a call. Telephone lines open Mon-Fri 8am to 8pm."
-    address: "Office Address:"
-    opening: "Opening hours:"
+    title_html: "Vă rugăm, nu ezitați să ne trimiteți cererile dvs.<br />Vom raspunde in cel mai scurt timp posibil."
+    subtitle: "Mai jos puteți găsi locația noastră în Google Maps."
+    contactus: "Contacteaza –ne"
+    bookcourse: "Rezerva un curs"
+    contactustext_html: "Vă rugăm să luați legătura dacă aveți întrebări sau dacă doriți să aflați mai multe despre cum putem ajuta să vă îmbunătățiți de limba engleza.<br />Vă rugăm să precizați preferințele și nevoile specifice de formare, precum și un membru dedicat al echipei noastre va primi înapoi la tine cât mai curând posibil. Ați putea să ne vorbească limba engleză, română, franceză, spaniolă și italiană."
+    bookcoursetransfer: "Va rugam sa rezervati un curs prin Paypal sau prin transfer bancar la:"
+    customer: "Serviciu cu Clientii"
+    feedbacktitle: "La Purple Stone Academy, am mereu placerea  sa aud din studenții noștri"
+    feedbacktext: "Fie că doriți să ne dea un feedback asupra a ceea ce facem, sugerează modul în care putem face lucrurile mai bine sau pur și simplu o fantezie de chat, trimite-ne un mesaj sau să ne dea un apel. Liniile de telefon deschise Luni-Vineri 8am la 20."
+    address: "Adresa de birou /program de lucru:"
+    opening: "Program de vizitare:"
 
    aweberform:
-    title_html: "Please, feel free to send us your enquires.<br />We'll reply to you as soon as possible."
-    subtitle: "Below you can find our location in Google Maps."
-    contactus: "Contact Us"
-    bookcourse: "Book a Course"
-    contactustext_html: "Please get in touch if you have any questions or you wish to find out more about how we can help you improve your English.<br />Please state your preferences and your specific training needs, and a dedicated member of our team will get back to you as soon as possible.<br />You may speak to us in English, Romanian, French, Spanish and Italian."
-    bookcoursetransfer: "Please book a course by Paypal or by making a bank transfer to:"
-    customer: "Customer Service"
-    feedbacktitle: "At Purple Stone Academy, we always love hearing from our Students"
-    feedbacktext: "Whether you want to give us feedback on what we're doing, suggest how we can make things better or simply fancy a chat, send us a message or give us a call. Telephone lines open Mon-Fri 8am to 8pm."
-    address: "Office Address:"
-    opening: "Opening hours:"
+    title_html: "Vă rugăm, nu ezitați să ne trimiteți cererile dvs.<br />Vom raspunde in cel mai scurt timp posibil."
+    subtitle: "Mai jos puteți găsi locația noastră în Google Maps."
+    contactus: "Contacteaza –ne"
+    bookcourse: "Rezerva un curs"
+    contactustext_html: "Vă rugăm să luați legătura dacă aveți întrebări sau dacă doriți să aflați mai multe despre cum putem ajuta să vă îmbunătățiți de limba engleza.<br />Vă rugăm să precizați preferințele și nevoile specifice de formare, precum și un membru dedicat al echipei noastre va primi înapoi la tine cât mai curând posibil. Ați putea să ne vorbească limba engleză, română, franceză, spaniolă și italiană."
+    bookcoursetransfer: "Va rugam sa rezervati un curs prin Paypal sau prin transfer bancar la:"
+    customer: "Serviciu cu Clientii"
+    feedbacktitle: "La Purple Stone Academy, am mereu placerea  sa aud din studenții noștri"
+    feedbacktext: "Fie că doriți să ne dea un feedback asupra a ceea ce facem, sugerează modul în care putem face lucrurile mai bine sau pur și simplu o fantezie de chat, trimite-ne un mesaj sau să ne dea un apel. Liniile de telefon deschise Luni-Vineri 8am la 20."
+    address: "Adresa de birou /program de lucru:"
+    opening: "Program de vizitare:"
 
 
   contents:
 
     courses:
-      title: "Choose Your Course Here"
-      membership: "Choose Your Membership"
+      title: "Alegeti Cursurile Noastre de aici"
+      membership: "Alegeți dvs. de membru"
 
       coursetitle1: |
-        English Course
-        elementary level
-      courseopenhours1: "9:00-11:00 Monday To Friday"
-      coursestart: "Flexible start"
-      coursestarttext1: "This is a fantastic system for learning English."
-      learn: "LEARN:"
+        Curs de Limba Engleza
+        Nivel Elementar
+      courseopenhours1: "9:00-11:00 Luni pana Vineri"
+      coursestart: "Start flexibil"
+      coursestarttext1: "Acesta este un sistem fantastic pentru învățarea limbii engleze."
+      learn: "VEI INVATA:"
       coursecontentlist1: |
-        Pronounce words under instruction
-        Read and understand basic instructions
-        Make quick progress with all areas of English
-        Learn basic phrases
-        Improve your work prospects
-        Advance rapidly with your English
-        Learn in a dynamic and friendly environment
-        Practice Speaking, Writing, Listening, Reading
+        Pronunță cuvinte in  cadrul instrucțiuni
+        Citire  și  înțelegerea instrucțiunilor  de bază
+        Face progrese rapide, cu toate domeniile de  limba engleză
+        Invata mai multe fraze de baza
+        Îmbunătățirea  perspectivele de muncă
+        Avansa rapid cu limba engleza
+        Aflați într-un mediu dinamic și prietenos
+        Practica vorbirea, scrierea, ascultarea, citirea
+        E chipa noastra multilingva  este întotdeauna fericita să vă ajute cu orice întrebări ați putea avea.
+
       
       coursecontenttext1: |
-        Our multilingual team is always happy to help with any questions you may have. We can help you find the right course for your needs, find accommodation and give you careers’ advice. We speak English, Spanish, French, Italian and Romanian.
+        Vă putem ajuta să găsiți cursul potrivit pentru nevoile dvs, găsirea  cazari și vă va oferi consultanță în carieră. Vorbim engleză, spaniolă, franceză, italiană și română.
         
-        10 hours of tuition per week.
-        Personalised Learning Programme.
-        Three times more teacher attention than in a regular school.
-        Regular evaluation.
-        Certificate of achievement at the end of minimum 20 hours of study.
-        Access to free tips and strategies for learning English and blog.
-        Weekly Social Programme.
-        Multilingual support.
+        10 ore de predare pe săptămână.
+        Programul de învățare personalizata.
+        De trei ori mai multă atenție decât profesor într-o școală normală.
+        Evaluare periodică.
+        Certificatul de realizare la sfârșitul minimum 20 de ore de studiu.
+        Acces la sfaturi gratuite și strategii pentru învățarea limbii engleze și blog.
+        Suport multilingv.
+
 
       coursetitle2: |
-        English Course
-        Pre –intermediate level
-      courseopenhours2: "11:30-1:30 Monday To Friday"
-      coursestart: "Flexible start"
-      coursestarttext2: "This is a personalised system where you will advance rapidly."
-      learn: "LEARN:"
+        Curs de Limba Engleza
+        Nivelul pre-intermediar
+
+      courseopenhours2: "11:30-1:30 Luni pana Vineri"
+      coursestart: "Start flexibil"
+      coursestarttext2: "Aceste este un system personalizat unde poti avansa rapid."
+      learn: "VEI INVATA:"
       coursecontentlist2: |
-        Expand your vocabulary and improve your fluency
-        Speak in various scenarios and situations
-        Read and understand whole sentences without being prompted
-        Make quick progress with all areas of English
-        Converse at a basic level of English
-        Improve your work prospects
-        Advance rapidly with your English
-        Learn in a dynamic and friendly environment
-        Practice Speaking, Writing, Listening, Reading.
+        Extinde vocabularul și îmbunătățeste fluenta
+        Vorbeste în diferite scenarii și situații
+        Citeaste si   înțelege fraze întregi, fără a fi determinat
+        Face progrese rapide, cu toate domeniile de engleză
+        Converseaza  la un nivel de bază de limba engleză
+        Îmbunătățirea  perspectivele de muncă
+        Avansat rapid cu limba engleza
+        Aflați într-un mediu dinamic și prietenos
+        Practica vorbirea, scrierea, ascultarea, citirea
       
       coursecontenttext2: |
-        Our multilingual team is always happy to help with any questions you may have. We can help you find the right course for your needs, find accommodation and give you careers’ advice. We speak English, Spanish, French, Italian and Romanian.
+        Echipa noastra multilingva este întotdeauna fericita să vă ajute cu orice întrebări ați putea avea. Vă putem ajuta să găsiți cursul potrivit pentru nevoile dumneavoastra, găsi cazare și vă va oferi consultanță în carieră. Vorbim engleză, spaniolă, franceză, italiană și română.
         
-        10 hours of tuition per week.
-        Personalised Learning Programme.
-        Three times more teacher attention than in a regular school.
-        Regular evaluation.
-        Certificate of achievement at the end of minimum 20 hours of study.
-        Access to free tips and strategies for learning English and blog.
-        Weekly Social Programme.
-        Multilingual support.
+        10 ore de predare pe săptămână
+        Programul de învățare personalizata
+        De trei ori mai multă atenție decât profesor într-o școală normală
+        Evaluare periodică
+        Certificatul de realizare la sfârșitul minimum 20 de ore de studiu
+        Acces la sfaturi gratuite și strategii pentru învățarea limbii engleze și blog
+        Programul Social săptămânal
+        Suport multilingv
 
       coursetitle3: |
-        English Course
-        Intermediate level
-      courseopenhours3: "2:00-4:00 Monday To Friday"
-      coursestart: "Flexible start"
-      coursestarttext3: "This is a powerful and enjoyable system for you to improve your English."
-      learn: "LEARN:"
+        Curs de Limba Engleza
+        Nivel intermediar
+
+      courseopenhours3: "2:00-4:00 Luni pana Vineri"
+      coursestart: "Start flexibil"
+      coursestarttext3: "Acesta este un sistem puternic și plăcută pentru a vă îmbunătăți engleza."
+      learn: "VEI INVATA:"
       coursecontentlist3: |
-        Make progress with all areas of English and communicate with confidence in a wide range of situations
-        Manage a whole scenario of situations, from customer care to negotiations and interviews. Use your language skills in a more formal or work setting
-        Ask for information from an educational institution
-        Improve your work prospects
-        Advance rapidly with your English
-        Learn in a dynamic and friendly environment
-        Practice Speaking, Writing, Listening,Reading
+        Faci progrese cu toate domeniile de limba engleză și de a comunica cu încredere într- o gamă largă de situații
+        Gestiona un întreg scenariu de situații , de la asistență clienți la negocieri si interviuri
+        Folosesti abilitățile lingvistice într-un cadru mai formal sau de lucru
+        Solicita informații de la o instituție de învățământ
+        Îmbunătăți perspectivele de muncă
+        Avansa rapid cu limba engleza
+        Aflaț într-un mediu dinamic și prietenos
+        Practica vorbirea, scrierea , ascultarea, citirea
+
       
       coursecontenttext3: |
-        Our multilingual team is always happy to help with any questions you may have. We can help you find the right course for your needs, find accommodation and give you careers’ advice. We speak English, Spanish, French, Italian and Romanian.
+        Vă putem ajuta să găsiți cursul potrivit pentru nevoile dumneavoastra , găsi cazare și vă va oferi consultanță în carieră. Vorbim engleză, spaniolă , franceză , italiană și română.
         
-        10 hours of tuition per week.
-        Personalised Learning Programme.
-        Three times more teacher attention than in a regular school.
-        Regular evaluation.
-        Certificate of achievement at the end of minimum 20 hours of study.
-        Access to free tips and strategies for learning English and blog.
-        Weekly Social Programme.
-        Multilingual support.
+        10 ore de predare pe săptămână
+        Programul de învățare personalizate
+        De trei ori mai multă atenție decât profesor într-o școală normală
+        Evaluare periodică
+        Certificatul de realizare la sfârșitul minimum 20 de ore de studiu
+        Acces la sfaturi gratuite și strategii pentru învățarea limbii engleze și blog
+        Programul Social săptămânal
+        Suport multilingv
+
 
       coursesPackagetitle2: "Audiobook of 'Innovative Ways To Learn English Quickly'"
       coursesPackagetext2: |
