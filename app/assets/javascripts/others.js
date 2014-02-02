@@ -1,7 +1,10 @@
 $(document).ready(function(){
 	$('#menu').slicknav();
 	
-
+	$('.bxslider').bxSlider({
+		auto: true,
+		autostart: true
+	});
 
 
 		// hide #back-top first
