@@ -610,6 +610,13 @@ h2.stargold {
 h2.starplatinum {
   color: #8fbc8f;
 }
+.membprice {
+  padding: 10px 20px 10px 20px;
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+   border-radius: 3px;
+}
+
 .membprice.silver, .membprice.gold, .membprice.platinum, .button.silver, .button.gold, .button.platinum {
   font-weight: 700;
   color: black;
