@@ -10,8 +10,9 @@
  *
  *= require reset
  *= require skeleton
+ *= require font-awesome
  *= require layout
  *= require slicknav
- *= require jquery.bxslider
+ *= require flexslider
  *= require posts
   */

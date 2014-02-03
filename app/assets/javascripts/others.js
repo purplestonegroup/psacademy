@@ -1,9 +1,11 @@
 $(document).ready(function(){
-	$('#menu').slicknav();
 	
-	$('.bxslider').bxSlider({
-		auto: true,
-		autostart: true
+	$('#menu').slicknav();
+
+	$(window).load(function() {
+	  $('.flexslider').flexslider({
+	    animation: "slide"
+	  });
 	});
 
 

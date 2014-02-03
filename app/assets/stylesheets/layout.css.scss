@@ -506,11 +506,12 @@ zoom: 1;
 border-bottom: 8px solid $primaryColour;
 }
 
-.slide {
+#slider {
   position: relative;
   margin-top: 30px;
   height: 100%;
-  h2 {
+  overflow:hidden;
+    h2 {
     position: absolute;
     z-index: 5;
     color: #fff;
@@ -526,11 +527,11 @@ border-bottom: 8px solid $primaryColour;
    width:100%;
    height:25%;
    background-color:$secondaryColour;
-   z-index:3;
+   z-index:2;
    /* These three lines are for transparency in all browsers. */
    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
    filter: alpha(opacity=90);
-   opacity:.9;
+   opacity:.4;
   }
   img {
     position: relative;
@@ -794,10 +795,10 @@ ul#menu_footer {
   .slicknav_menu {
     display:block;
   }
-  .slide h2 {
+  #slider h2 {
     font-size: 1em;
   }
-  .slide .transp {
+  #slider .transp {
    height:35%;
   }
   ul#menu_footer {
@@ -831,7 +832,7 @@ ul#menu_footer {
     display:block;
   }
 
-  .slide h2 {
+  #slider h2 {
     font-size: 1em;
     width: 300px;
   }
@@ -860,7 +861,7 @@ ul#menu_footer {
     display:block;
   }
 
-  .slide h2 {
+  #slider h2 {
     font-size: 1.2em;
     width: 300px;
   }
@@ -950,7 +951,7 @@ ul#menu_footer {
   .header_right_side {
     padding-left: 80px; 
   }
-  .slide h2 {
+  #slider h2 {
     font-size: 1.6em;
     width: 450px;
   }
@@ -995,7 +996,7 @@ ul#menu_footer {
   .header_right_side {
     padding-left: 80px; 
   }
-  .slide h2 {
+  #slider h2 {
     font-size: 1.6em;
     width: 450px;
   }
@@ -1037,7 +1038,7 @@ ul#menu_footer {
   .header_right_side {
     padding-left: 80px; 
   }
-  .slide h2 {
+  #slider h2 {
     font-size: 1.6em;
     width: 450px;
   }
