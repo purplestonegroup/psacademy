@@ -22,16 +22,23 @@
 			<p><%= t('.methodtext3') %></p>
 		</div>
 	</div>
-	<hr class="light">
 
-	<div class="">
-		<%= image_tag "method_purplestone.jpg", alt: "Our Method in Purple Stone Academy" %>
-	</div>
+	<%= image_tag "method_purplestone.jpg", alt: "Our Method in Purple Stone Academy" %>
 	
-	<div class="row">
+	<div id="method" class="row">
 		<h2><%= t('.methodtitle4') %></h2>
 		<hr class="light">
-		<p><%= simple_format t('.methodtext4') %></p>
+		<div class="five columns">
+			<p><%= simple_format t('.methodtext4') %></p>
+		</div>
+		
+		<div class="four columns">
+			<%= image_tag "academy_energy.jpg", alt: "Our Method in Purple Stone Academy" %>
+			<p><%= simple_format t('.methodtext5') %></p>
+		</div>
+		
+		<%= image_tag "academia_bodegon.jpg", alt: "Our Method in Purple Stone Academy" %>
+
 
 	</div>
 
