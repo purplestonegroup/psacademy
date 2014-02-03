@@ -257,8 +257,8 @@ rm:
       8week: "8 Saptamani"
       12week: "12 Saptamani"
 
-      without: "Sans honoraires"
-      firstfee: "Taxa de înregistrare pentru prima dată de (+ £50)"
+      course: "Curs"
+      registration: "Curs + înregistrare"
 
       celltitle1: "Clasele de la Purple Stone Academy"
       celltitle2: "Audiobook de 'Metode inovatoare de a învăța limba engleză rapid'"
