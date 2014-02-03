@@ -189,8 +189,6 @@ GEM
     warden (1.2.3)
       rack (>= 1.0)
 
-PLATFORMS
-  x86-mingw32
 
 DEPENDENCIES
   activeadmin!
