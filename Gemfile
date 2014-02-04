@@ -53,7 +53,7 @@ gem "geocoder"
 gem "activeadmin", github: "gregbell/active_admin"
 
 # add images and attachements o the sqlite3
-gem "paperclip"
+gem "paperclip", :git => "git://github.com/thoughtbot/paperclip.git"
 gem "aws-sdk"
 
 #add kjvarga/sitemap_generator 
