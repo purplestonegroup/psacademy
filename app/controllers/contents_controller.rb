@@ -17,6 +17,12 @@ class ContentsController < ApplicationController
   def resources
   end
 
+  def thankyoucourse
+  end
+
+  def thankyouproduct
+  end
+
   def terms
   end
 

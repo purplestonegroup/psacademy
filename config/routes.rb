@@ -20,6 +20,8 @@ Group::Application.routes.draw do
     # static pages
     get "/courses" => "contents#courses"
     get "/method" => "contents#method"
+    get "/thank-you-courses" => "contents#thankyoucourses", as: "thankyoucourses"
+    get "/thank-you-products" => "contents#thankyouproducts", as: "thankyouproducts"
     get "/memberships" => "contents#memberships"
     get "/why-choose-us" => "contents#chooseus", as: "chooseus"
     get "/success-stories" => "contents#stories", as: "stories"
