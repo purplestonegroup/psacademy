@@ -22,7 +22,6 @@ Group::Application.routes.draw do
     get "/method" => "contents#method"
     get "/thank-you-courses" => "contents#thankyoucourses", as: "thankyoucourses"
     get "/thank-you-products" => "contents#thankyouproducts", as: "thankyouproducts"
-    get "/herice" => "contents#herice", as: "thankyouherice"
     get "/memberships" => "contents#memberships"
     get "/why-choose-us" => "contents#chooseus", as: "chooseus"
     get "/success-stories" => "contents#stories", as: "stories"

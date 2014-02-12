@@ -23,9 +23,6 @@ class ContentsController < ApplicationController
   def thankyouproduct
   end
 
-  def herice
-  end
-
   def terms
   end
 
